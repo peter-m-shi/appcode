@@ -80,9 +80,9 @@
         <mark key="^" line="335" column="10" />
         <mark key="." line="529" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/Podfile" timestamp="1522918590626">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/Podfile" timestamp="1522919835137">
         <mark key="'" line="12" column="1" />
-        <mark key="[" line="23" column="0" />
+        <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="12" />
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
@@ -882,11 +882,12 @@
         <mark key="^" line="63" column="6" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" timestamp="1522918933814">
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="478" column="0" />
-        <mark key="." line="478" column="0" />
-        <mark key="^" line="479" column="0" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" timestamp="1522921321361">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="489" column="69" />
+        <mark key="]" line="489" column="69" />
+        <mark key="." line="489" column="69" />
+        <mark key="^" line="489" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGSkinPreviewView.m" timestamp="1491631657403">
         <mark key="[" line="41" column="101" />
@@ -1654,12 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="154" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="131" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="132" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="150" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="52" column="35" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
@@ -1754,6 +1749,12 @@
       <jump line="448" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" />
       <jump line="238" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" />
       <jump line="12" column="1" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/Podfile" />
+      <jump line="405" column="27" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
+      <jump line="470" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
+      <jump line="484" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
+      <jump line="487" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
+      <jump line="495" column="38" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1765,8 +1766,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJlc2VudHIgPSBQcmVzZW50cigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>width</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1778,52 +1779,52 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
-        <text>Presentr</text>
+        <text>Pre</text>
       </register>
       <register name="0" type="4">
-        <text>naviVc</text>
+        <text>self.view.frame.size.width / 2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJlc2VudHIgPSBQcmVzZW50cigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcmVzZW50KGNvbm5lY3RWYywgYW5pbWF0ZWQ6IHRydWUsIGNvbXBsZXRpb246IG5pbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdFZjLm1vZGFsUHJlc2VudGF0aW9uU3R5bGUgPSBVSU1vZGFsUHJlc2VudGF0aW9uU3R5bGUuZm9ybVNoZWV0CiAgICAgICAgICAgIGNvbm5lY3RWYy5tb2RhbFRyYW5zaXRpb25TdHlsZSA9IFVJTW9kYWxUcmFuc2l0aW9uU3R5bGUuY292ZXJWZXJ0aWNhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tUHJlc2VudFZpZXdDb250cm9sbGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5hdmlWYyA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIuaW5pdChyb290Vmlld0NvbnRyb2xsZXI6IGNvbm5lY3RWYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5hdmlWYyA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIuaW5pdChyb290Vmlld0NvbnRyb2xsZXI6IGNvbm5lY3RWYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAg5L2c6ICF77yaeWFuZ2luZwogICAgICAgICAgICDpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzkwYmI2YTJmODEyMgogICAgICAgICAgICDkvobmupDvvJrnroDkuaYKICAgICAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNvcmQzMEJ0bi5pc1NlbGVjdGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAg5L2c6ICF77yaeWFuZ2luZwogICAgICAgICAgICDpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzkwYmI2YTJmODEyMgogICAgICAgICAgICDkvobmupDvvJrnroDkuaYKICAgICAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kZXIuaXNTZWxlY3RlZCA9ICFzZW5kZXIuaXNTZWxlY3RlZDsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcHJlc2VudHIgPSBQcmVzZW50cigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>Presentr</last-search>
+      <last-search>Pre</last-search>
       <last-offset />
-      <last-pattern>Presentr</last-pattern>
+      <last-pattern>Pre</last-pattern>
       <last-replace>A</last-replace>
       <last-substitute encoding="base64">XDxjb21wbGV0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1831,9 +1832,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxdXD4=</entry>
-        <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry>addObser</entry>
         <entry encoding="base64">XDxjb2xsZWN0R2FyYmFnZVw+</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxaUnVudGltZVV0aWxpdHlcPg==</entry>
@@ -1851,6 +1849,9 @@
         <entry encoding="base64">XDxMb2dpbkluZm9Ub29sXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>Presentr</entry>
+        <entry>present</entry>
+        <entry>customPresentViewController</entry>
+        <entry>Pre</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
