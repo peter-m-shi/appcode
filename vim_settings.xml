@@ -882,12 +882,9 @@
         <mark key="^" line="63" column="6" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" timestamp="1522922762938">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" timestamp="1522924142173">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="489" column="86" />
-        <mark key="]" line="489" column="87" />
-        <mark key="." line="489" column="87" />
-        <mark key="^" line="490" column="86" />
+        <mark key="[" line="480" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGSkinPreviewView.m" timestamp="1491631657403">
         <mark key="[" line="41" column="101" />
@@ -1583,7 +1580,13 @@
         <mark key="." line="202" column="0" />
         <mark key="^" line="191" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" timestamp="1522915898863" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" timestamp="1522924771616">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="36" column="108" />
+        <mark key="]" line="36" column="110" />
+        <mark key="." line="36" column="108" />
+        <mark key="^" line="36" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/VideoPlayer/MGMVPlayerView/MGMVControlView.m" timestamp="1491833955659">
         <mark key="[" line="303" column="15" />
         <mark key="]" line="303" column="15" />
@@ -1655,15 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="150" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="52" column="35" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
@@ -1755,6 +1749,15 @@
       <jump line="487" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
       <jump line="495" column="38" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
+      <jump line="162" column="57" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="178" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
+      <jump line="172" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1767,7 +1770,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>width</text>
+        <text>.f</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1779,43 +1782,43 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>点击返回按钮</text>
       </register>
       <register name="/" type="4">
         <text>Pre</text>
       </register>
       <register name="0" type="4">
-        <text>self.view.frame.size.width / 2</text>
+        <text>.f</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcmVzZW50KGNvbm5lY3RWYywgYW5pbWF0ZWQ6IHRydWUsIGNvbXBsZXRpb246IG5pbCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlcwo=</text>
+        <text encoding="base64">ICAgIF9zZWxlY3RlZEluZGV4ID0gaW5kZXhQYXRoLnJvdzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgLy8gICDmmL7npLrlr7nlj7cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tUHJlc2VudFZpZXdDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgMi7lj5blvpfngrnlh7vnmoTpgqPkuIDooYznmoTljZXlhYPmoLzvvIjmlrDvvIkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5L2c6ICF77yaeWFuZ2luZwogICAgICAgICAgICDpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzkwYmI2YTJmODEyMgogICAgICAgICAgICDkvobmupDvvJrnroDkuaYKICAgICAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
+        <text encoding="base64">ICAgIC8vICAg6ZqQ6JeP5a+55Y+3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5L2c6ICF77yaeWFuZ2luZwogICAgICAgICAgICDpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzkwYmI2YTJmODEyMgogICAgICAgICAgICDkvobmupDvvJrnroDkuaYKICAgICAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJlc2VudHIgPSBQcmVzZW50cigpCg==</text>
+        <text encoding="base64">ICAgIGNlbGwuYWNjZXNzb3J5VHlwZSA9IFVJVGFibGVWaWV3Q2VsbEFjY2Vzc29yeUNoZWNrbWFyazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcmVzZW50KGNvbm5lY3RWYywgYW5pbWF0ZWQ6IHRydWUsIGNvbXBsZXRpb246IG5pbCkK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
