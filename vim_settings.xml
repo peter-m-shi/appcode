@@ -1,0 +1,1907 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/MGActivityCategoryView.m" timestamp="1491637278789">
+        <mark key="[" line="139" column="79" />
+        <mark key="]" line="140" column="6" />
+        <mark key="." line="140" column="6" />
+        <mark key="^" line="140" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" timestamp="1521537349821">
+        <mark key="'" line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/MGSingerHomeSongsController.m" timestamp="1491637949545">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGMyFavoriteMusicViewController.m" timestamp="1490791985476">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="51" />
+        <mark key="." line="57" column="51" />
+        <mark key="^" line="57" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/MyMusicSongList/MGOnlineSongListViewController.m" timestamp="1491833004657">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+        <mark key="^" line="204" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Categories/UIView+Splitter.m" timestamp="1491639865133">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Controllers/MGRankViewController.m" timestamp="1491833115571">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="110" column="18" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/ZObject.m" timestamp="1511856242651">
+        <mark key="'" line="165" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGConcertHeaderView.m" timestamp="1491831566371">
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="42" />
+        <mark key="^" line="61" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MyFriends/MGMyFansViewController.m" timestamp="1491832440937">
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="218" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicAlbumCell.m" timestamp="1491633883900">
+        <mark key="[" line="118" column="115" />
+        <mark key="]" line="119" column="6" />
+        <mark key="." line="119" column="6" />
+        <mark key="^" line="119" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/NetworkTool.swift" timestamp="1522566936834">
+        <mark key="[" line="559" column="0" />
+        <mark key="]" line="559" column="0" />
+        <mark key="." line="559" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/MGPlayerViewController.m" timestamp="1491637389545">
+        <mark key="[" line="423" column="0" />
+        <mark key="]" line="423" column="11" />
+        <mark key="^" line="392" column="6" />
+        <mark key="." line="423" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Utility/MGUIToolKits.m" timestamp="1491834483896">
+        <mark key="[" line="529" column="0" />
+        <mark key="]" line="529" column="0" />
+        <mark key="^" line="335" column="10" />
+        <mark key="." line="529" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MyFriends/MGMyFollowerFriendCell.m" timestamp="1491634051034">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGResultSearchOperation.m" timestamp="1491638947810">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="47" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/DBTool/PictureDB.swift" timestamp="1522477498760">
+        <mark key="." line="29" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/BaseNormalNavViewController.m" timestamp="1491641146191">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="11" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="82" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Network/MGNet/Content/MGContentMvPlayInfoNet.m" timestamp="1491834336704">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="48" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" timestamp="1522896185384">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="376" column="0" />
+        <mark key="]" line="376" column="0" />
+        <mark key="." line="376" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Vendors/MGNativeAdObj.m" timestamp="1491639962474">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="26" />
+        <mark key="^" line="89" column="6" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Feature/MGCRBTFeatureListViewController.m" timestamp="1491832717305">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="75" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MyRing/MGCRBTSettingView.m" timestamp="1491832816107">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="359" column="0" />
+        <mark key="." line="359" column="0" />
+        <mark key="^" line="188" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/MGShowTicketDetailViewController.m" timestamp="1491831326374">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="16" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="228" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGRecentSongCell.m" timestamp="1491632989782">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="11" />
+        <mark key="^" line="54" column="6" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGMemberCenterHeaderView.m" timestamp="1491631625660">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Feature/MGCRBTFeatureViewController.m" timestamp="1491832760728">
+        <mark key="[" line="717" column="7" />
+        <mark key="]" line="717" column="7" />
+        <mark key="." line="717" column="7" />
+        <mark key="^" line="648" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/MyMusicSongList/Views/MGSongListClassHeaderView.m" timestamp="1491636583786">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="44" column="6" />
+        <mark key="." line="44" column="6" />
+        <mark key="^" line="44" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/HomePage/MGUserHomePageViewController.m" timestamp="1491631315224">
+        <mark key="[" line="635" column="0" />
+        <mark key="]" line="635" column="15" />
+        <mark key="^" line="624" column="10" />
+        <mark key="." line="635" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MGCRBTListViewController.m" timestamp="1491634132766">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="26" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="94" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Base/MGBaseColumnViewController.m" timestamp="1492175489326">
+        <mark key="'" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Categories/Category_YPKit/Foundation/NSArray+YPKit.m" timestamp="1491639839596">
+        <mark key="[" line="74" column="38" />
+        <mark key="]" line="74" column="6" />
+        <mark key="." line="74" column="6" />
+        <mark key="^" line="74" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Demo/Carthage/Checkouts/QuietModemKit/QuietModemKit/QMFrameReceiver.m" timestamp="1504696369892">
+        <mark key="'" line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/FriendRing/MGFriendCRBTListViewController.m" timestamp="1491635870777">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="11" />
+        <mark key="^" line="118" column="6" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/Views/MGLiveTicketDetailCell.m" timestamp="1491632188589">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
+        <mark key="^" line="56" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/MyMusicSongList/Views/MGOnlineSongListCell.m" timestamp="1491636580497">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="55" column="6" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MVPlayer/Views/MGMVDetailSongCell.m" timestamp="1491632494688">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="12" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="167" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchResultSonglistCell.m" timestamp="1491639012626">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="6" />
+        <mark key="." line="45" column="6" />
+        <mark key="^" line="45" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Util/MGUserRequestManager.m" timestamp="1491640914117">
+        <mark key="[" line="24" column="68" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGNewestMusicAlbumCellCollectionViewCell.m" timestamp="1491637321659">
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="102" column="6" />
+        <mark key="." line="102" column="6" />
+        <mark key="^" line="102" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/Modules/ISing/Classes/Service/SingService/SESLocalEngine/SES3DLocalEngine.m" timestamp="1513060722182">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Skin/MGSkin.m" timestamp="1491639911971">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="11" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="84" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/HomePage/MGRecentListenViewController.m" timestamp="1491631248770">
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="61" column="6" />
+        <mark key="." line="61" column="6" />
+        <mark key="^" line="61" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Cells/MGLeftDrawerSongListCell.m" timestamp="1491630872571">
+        <mark key="[" line="67" column="144" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Macro/MGConfig.h" timestamp="1491039202077">
+        <mark key="[" line="47" column="10" />
+        <mark key="]" line="47" column="10" />
+        <mark key="." line="47" column="10" />
+        <mark key="^" line="47" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Network/MGNet/Content/MGContentIndexActivityNet.m" timestamp="1490865485167">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Views/MGSongListView.m" timestamp="1491832500168">
+        <mark key="[" line="123" column="31" />
+        <mark key="]" line="123" column="36" />
+        <mark key="." line="123" column="36" />
+        <mark key="^" line="123" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Network/MGNet/Content/MGContentIndexActivityNet.h" timestamp="1490864264043">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGConcertDetailController.m" timestamp="1491831201552">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="^" line="198" column="24" />
+        <mark key="." line="242" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/RadioViews/MGRadioCorrelationView.h" timestamp="1490790132756">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListGroupManageViewController.m" timestamp="1491831922057">
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="." line="308" column="0" />
+        <mark key="^" line="290" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Views/MGSongCell.m" timestamp="1491637102480">
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="95" column="6" />
+        <mark key="." line="95" column="6" />
+        <mark key="^" line="95" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGNoWifiBannerView.m" timestamp="1491633846342">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="11" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="54" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendBannerCell.m" timestamp="1491637328748">
+        <mark key="[" line="76" column="50" />
+        <mark key="]" line="77" column="6" />
+        <mark key="." line="77" column="6" />
+        <mark key="^" line="77" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGRecognizerResultView.m" timestamp="1491831053993">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+        <mark key="^" line="239" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/Lyric/MGLrcIndicatorView.m" timestamp="1491833539705">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="64" column="6" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MyRing/MGCRBTSettingTabViewController.m" timestamp="1491641322874">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGRecentPlayMusicViewController.m" timestamp="1491831835472">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+        <mark key="^" line="229" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MGColorRingViewController.m" timestamp="1491832514153">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="275" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/VideoPlayer/MGMVPlayerView/MGMVVideoPlayerController.m" timestamp="1491833966794">
+        <mark key="[" line="815" column="0" />
+        <mark key="]" line="815" column="0" />
+        <mark key="." line="815" column="0" />
+        <mark key="^" line="790" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/AppDelegate+CheckVersion.m" timestamp="1492170679180">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="102" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="76" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/Views/MGAvatarScrollViewAvatarCell.m" timestamp="1491632138515">
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/SongMenu/MGOnlineSongListGroupViewController.m" timestamp="1491833398896">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Cells/MGMessageCommentCell.m" timestamp="1491630909198">
+        <mark key="[" line="152" column="148" />
+        <mark key="]" line="153" column="34" />
+        <mark key="^" line="153" column="34" />
+        <mark key="." line="153" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/ShareLrc/MGLyricsSelectionViewController.m" timestamp="1491637693051">
+        <mark key="[" line="134" column="67" />
+        <mark key="]" line="135" column="6" />
+        <mark key="." line="135" column="6" />
+        <mark key="^" line="135" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGLocalMusicManageViewController.m" timestamp="1491831768201">
+        <mark key="[" line="975" column="29" />
+        <mark key="]" line="975" column="34" />
+        <mark key="^" line="975" column="34" />
+        <mark key="." line="975" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/HomePage/MGBindMobileViewController.m" timestamp="1491631168924">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="37" />
+        <mark key="^" line="117" column="6" />
+        <mark key="." line="138" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/VIews/MGLiveSiftView.m" timestamp="1491632397749">
+        <mark key="[" line="245" column="76" />
+        <mark key="]" line="246" column="22" />
+        <mark key="." line="246" column="22" />
+        <mark key="^" line="246" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGMvManageViewController.m" timestamp="1491641147033">
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="11" />
+        <mark key="^" line="283" column="6" />
+        <mark key="." line="292" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Utility/MGShareUtil.m" timestamp="1491639936676">
+        <mark key="[" line="510" column="0" />
+        <mark key="]" line="511" column="6" />
+        <mark key="." line="511" column="6" />
+        <mark key="^" line="511" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSongCell.m" timestamp="1491633971429">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="11" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="47" column="6" />
+      </file>
+      <file name="/Applications/Xcode-unsigned.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAssetResourceLoader.h" timestamp="1491904932707">
+        <mark key="'" line="317" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MGDrawerController.m" timestamp="1491834536825">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="72" column="32" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MVPlayer/MGMVPlayerViewController.m" timestamp="1491831454685">
+        <mark key="[" line="340" column="7" />
+        <mark key="]" line="340" column="7" />
+        <mark key="^" line="391" column="6" />
+        <mark key="." line="340" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/MGMusicianNotesController.m" timestamp="1491637913182">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/Views/MGLiveSingerHeaderView.m" timestamp="1491632149109">
+        <mark key="[" line="59" column="58" />
+        <mark key="]" line="60" column="6" />
+        <mark key="." line="60" column="6" />
+        <mark key="^" line="60" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGMyRankOrLoginView.m" timestamp="1491632013575">
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="78" column="6" />
+        <mark key="." line="78" column="6" />
+        <mark key="^" line="78" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MyFriends/MGMyFansViewCell.m" timestamp="1491634018555">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/MGHotActivityCell.m" timestamp="1491833327921">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="124" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/NSObject+Skin.m" timestamp="1511835774674">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/ZSkinManager.m" timestamp="1511836168438">
+        <mark key="'" line="62" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/Lyric/LRCTableViewCell.m" timestamp="1491637454151">
+        <mark key="[" line="74" column="1" />
+        <mark key="]" line="75" column="6" />
+        <mark key="." line="75" column="6" />
+        <mark key="^" line="75" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Views/MGMusicRankCell.m" timestamp="1491637084227">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSongTabViewController.m" timestamp="1491633976904">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Biz/MGBaseBiz.m" timestamp="1491639238655">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="20" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="85" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListTagView.m" timestamp="1491633651715">
+        <mark key="[" line="74" column="60" />
+        <mark key="]" line="75" column="6" />
+        <mark key="." line="75" column="6" />
+        <mark key="^" line="75" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGCommentViewController.m" timestamp="1491833812012">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="11" />
+        <mark key="^" line="306" column="6" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/LocalMusicManager.m" timestamp="1491832364152">
+        <mark key="[" line="608" column="0" />
+        <mark key="]" line="608" column="0" />
+        <mark key="." line="608" column="0" />
+        <mark key="^" line="593" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadTableView.m" timestamp="1491832343440">
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="0" />
+        <mark key="^" line="235" column="30" />
+        <mark key="." line="583" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PopupViewController.swift" timestamp="1522508871498">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/VIews/MGLiveCell.m" timestamp="1491831393970">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="133" column="6" />
+        <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchResultSongCell.m" timestamp="1491639008680">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Vendors/MGAdManager.m" timestamp="1491639949650">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="46" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Controllers/MGMiguProductViewController.m" timestamp="1491833045068">
+        <mark key="[" line="219" column="7" />
+        <mark key="]" line="219" column="7" />
+        <mark key="." line="219" column="7" />
+        <mark key="^" line="102" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Album/MGAlbumDetailTabController.m" timestamp="1491630810579">
+        <mark key="[" line="125" column="30" />
+        <mark key="]" line="126" column="11" />
+        <mark key="^" line="126" column="11" />
+        <mark key="." line="126" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/Views/MGConcerAdsManager.m" timestamp="1491641084198">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="26" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="75" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Help/MGFeedbackViewController.m" timestamp="1491631075627">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="11" />
+        <mark key="^" line="271" column="6" />
+        <mark key="." line="273" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Project/Meeting_iOS/Meeting/会议/消息中心/MessageCenterTableViewCell.h" timestamp="1497535992628">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadedHeaderView.m" timestamp="1491832250266">
+        <mark key="[" line="88" column="27" />
+        <mark key="]" line="88" column="33" />
+        <mark key="." line="88" column="27" />
+        <mark key="^" line="54" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListImportViewController.m" timestamp="1491633495414">
+        <mark key="[" line="224" column="4" />
+        <mark key="]" line="225" column="6" />
+        <mark key="." line="225" column="6" />
+        <mark key="^" line="225" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/MGLeftSideDrawerViewController.m" timestamp="1491631005441">
+        <mark key="[" line="662" column="71" />
+        <mark key="]" line="663" column="10" />
+        <mark key="^" line="663" column="10" />
+        <mark key="." line="663" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ChoosePackageController.swift" timestamp="1522508791023">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/Base/MGAudioDefine.h" timestamp="1490796734614">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="82" />
+        <mark key="^" line="100" column="81" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/Views/MGMusicianNotesHeaderCell.m" timestamp="1491637986345">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSearchView.m" timestamp="1491633909692">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="15" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="217" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchResultAlbumCell.m" timestamp="1491638958670">
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="44" column="6" />
+        <mark key="." line="44" column="6" />
+        <mark key="^" line="44" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Network/MGNet/User/MGUserUploadImage.h" timestamp="1490842226225">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveStarInterviewController/Views/MGLiveStarInterviewCell.m" timestamp="1491632273097">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="36" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/PlayListView/MGPlayerListView.m" timestamp="1491637629566">
+        <mark key="[" line="273" column="37" />
+        <mark key="]" line="274" column="10" />
+        <mark key="." line="274" column="10" />
+        <mark key="^" line="274" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MyRing/MGMyDIYRingTabViewController.m" timestamp="1491635933385">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="29" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGRecognizerResultListView.h" timestamp="1490787951830">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="53" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Demo/Carthage/Checkouts/QuietModemKit/QuietModemKit/QMFrameTransmitter.m" timestamp="1504696326987">
+        <mark key="'" line="43" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522680124266">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/MGAudioPlayer.m" timestamp="1490840774322">
+        <mark key="[" line="284" column="53" />
+        <mark key="]" line="284" column="53" />
+        <mark key="^" line="284" column="53" />
+        <mark key="." line="284" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/MGSingerDescriptionController.m" timestamp="1491637915284">
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchCell.m" timestamp="1491638954599">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="69" column="6" />
+        <mark key="." line="69" column="6" />
+        <mark key="^" line="69" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Controllers/MGNewestMusicSongListViewController.m" timestamp="1491637266633">
+        <mark key="[" line="158" column="77" />
+        <mark key="]" line="159" column="6" />
+        <mark key="." line="159" column="6" />
+        <mark key="^" line="159" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGMenuScrollView.m" timestamp="1491831777680">
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="30" />
+        <mark key="^" line="88" column="30" />
+        <mark key="." line="88" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Recognizer/MGRecognizerManager.m" timestamp="1491928310620">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="88" />
+        <mark key="^" line="267" column="10" />
+        <mark key="." line="288" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/HomePage/MGBindThirdAccountController.m" timestamp="1491631234374">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="213" column="10" />
+        <mark key="." line="213" column="10" />
+        <mark key="^" line="213" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Controllers/MGMiguProductMVViewController.m" timestamp="1491637250484">
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="11" />
+        <mark key="^" line="170" column="20" />
+        <mark key="." line="270" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Cells/MGRecognizeResultCell.m" timestamp="1491630917698">
+        <mark key="[" line="36" column="144" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521537579017">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Categories/UIScrollView+TwitterCover.m" timestamp="1491834466424">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="151" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListManager.m" timestamp="1491832000113">
+        <mark key="[" line="711" column="0" />
+        <mark key="]" line="711" column="0" />
+        <mark key="." line="711" column="0" />
+        <mark key="^" line="219" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendNotificationCell.m" timestamp="1491637348169">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Model/CDSongList+CoreDataProperties.h" timestamp="1492002391755">
+        <mark key="'" line="15" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Message/MGMessageCommentViewController.m" timestamp="1491631340732">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="11" />
+        <mark key="^" line="36" column="6" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGNormalMangeTableViewCell.m" timestamp="1491632918620">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="11" />
+        <mark key="^" line="35" column="6" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/MyMusicSongList/Views/MGSongListCollectionCell.m" timestamp="1491636590447">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="11" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="86" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/SongAction/MGRadioInfoView.m" timestamp="1491637714013">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="45" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Help/MGErrorFeedbackViewController.m" timestamp="1491631032212">
+        <mark key="[" line="109" column="41" />
+        <mark key="]" line="110" column="22" />
+        <mark key="^" line="110" column="22" />
+        <mark key="." line="110" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListEditViewController.m" timestamp="1491831872618">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="114" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/FriendRing/MGFriendCRBTViewController.m" timestamp="1491635897463">
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="413" column="11" />
+        <mark key="." line="413" column="0" />
+        <mark key="^" line="389" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Setting/MGOnlinePlayQualityViewController.m" timestamp="1491631460448">
+        <mark key="[" line="145" column="5" />
+        <mark key="]" line="146" column="6" />
+        <mark key="." line="146" column="6" />
+        <mark key="^" line="146" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Views/MGRingCorrelationCell.m" timestamp="1491832980809">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="63" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/VC/Live/MGConcertTrailerController/MGConcertTabbar/MGConcertInteractionController.m" timestamp="1504173598820">
+        <mark key="'" line="634" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGConcertContributionController.m" timestamp="1491631856756">
+        <mark key="[" line="229" column="39" />
+        <mark key="]" line="230" column="6" />
+        <mark key="." line="230" column="6" />
+        <mark key="^" line="230" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/RankModels/MGSongItemModel+RankViewSong.m" timestamp="1490798725632">
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="60" column="36" />
+        <mark key="^" line="59" column="26" />
+        <mark key="." line="60" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Setting/MGPrivacySettingController.m" timestamp="1491631474879">
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="58" column="6" />
+        <mark key="." line="58" column="6" />
+        <mark key="^" line="58" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/RankModels/MGColumnViewModel.h" timestamp="1490866029827">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Model/NSDictionary+Common.m" timestamp="1490859890569">
+        <mark key="[" line="1059" column="0" />
+        <mark key="]" line="1059" column="77" />
+        <mark key="^" line="703" column="65" />
+        <mark key="." line="1059" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGRingUploadViewController.m" timestamp="1491636133754">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="17" />
+        <mark key="^" line="180" column="6" />
+        <mark key="." line="201" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGRingSaveViewController.m" timestamp="1491636090756">
+        <mark key="[" line="132" column="4" />
+        <mark key="]" line="133" column="6" />
+        <mark key="." line="133" column="6" />
+        <mark key="^" line="133" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGMyMusicViewController.m" timestamp="1491632904897">
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="19" />
+        <mark key="." line="464" column="72" />
+        <mark key="^" line="464" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/PlayList/MGPrivateFMList.m" timestamp="1491834148592">
+        <mark key="[" line="626" column="17" />
+        <mark key="]" line="626" column="22" />
+        <mark key="." line="626" column="22" />
+        <mark key="^" line="626" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Util/MGRequestManager+Common.m" timestamp="1491640910523">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="6" />
+        <mark key="^" line="52" column="6" />
+        <mark key="." line="52" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Recommend/MGCRBTTodayRecommendViewController.m" timestamp="1491832876369">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="128" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGRingSaveViewController.h" timestamp="1490791740008">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/MiguCoin/MGCoinTabController.m" timestamp="1491631420154">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="11" />
+        <mark key="^" line="63" column="6" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGSkinPreviewView.m" timestamp="1491631657403">
+        <mark key="[" line="41" column="101" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSingerTabViewController.m" timestamp="1491633947108">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGRecentPlaySongListViewController.m" timestamp="1491831841465">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="127" column="10" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/ZBinder.h" timestamp="1511778052480">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Views/MGMyMusicClassifyCell.m" timestamp="1491832457761">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="174" column="6" />
+        <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGMVTableViewController.m" timestamp="1491632837438">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="15" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="223" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" timestamp="1522899308797">
+        <mark key="'" line="50" column="85" />
+        <mark key="[" line="83" column="39" />
+        <mark key="]" line="84" column="30" />
+        <mark key="^" line="84" column="30" />
+        <mark key="." line="84" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadedTableViewCell.h" timestamp="1490791593812">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Views/MiniPlayerView/MGMiniSongView.m" timestamp="1490945561905">
+        <mark key="[" line="150" column="12" />
+        <mark key="]" line="150" column="13" />
+        <mark key="." line="150" column="13" />
+        <mark key="^" line="150" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchSuggestionView.m" timestamp="1491639031770">
+        <mark key="[" line="119" column="74" />
+        <mark key="]" line="120" column="6" />
+        <mark key="." line="120" column="6" />
+        <mark key="^" line="120" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" timestamp="1522571279289">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+        <mark key="^" line="68" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/View/ChoosePackageCell.swift" timestamp="1522508994398">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="38" />
+        <mark key="^" line="67" column="38" />
+        <mark key="." line="67" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/LocalPlayer/MGLocalAudioPlayer.m" timestamp="1492002467073">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="196" column="1" />
+        <mark key="." line="306" column="6" />
+        <mark key="^" line="306" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListInputTitleViewController.m" timestamp="1491633507161">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="11" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="171" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Feature/MGCRBTFeatureHeaderView.m" timestamp="1491634703539">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicAlbumTabViewController.m" timestamp="1491633888050">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGCommonNoDataView.m" timestamp="1491832032826">
+        <mark key="[" line="129" column="28" />
+        <mark key="]" line="129" column="33" />
+        <mark key="." line="129" column="33" />
+        <mark key="^" line="129" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/OnlineAudioCache/MGAudioResourceCache.m" timestamp="1490794560923">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Message/MGMessageNotifyViewController.m" timestamp="1491631364394">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="11" />
+        <mark key="^" line="88" column="6" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGDIYRingViewController.m" timestamp="1491636045059">
+        <mark key="[" line="234" column="5" />
+        <mark key="]" line="235" column="10" />
+        <mark key="." line="235" column="10" />
+        <mark key="^" line="235" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendSongListCell.m" timestamp="1491637359321">
+        <mark key="[" line="193" column="5" />
+        <mark key="]" line="194" column="6" />
+        <mark key="." line="194" column="6" />
+        <mark key="^" line="194" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGCommentBubbleView.m" timestamp="1491833677600">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="104" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/Lyric/MRCView.m" timestamp="1491637597023">
+        <mark key="[" line="502" column="31" />
+        <mark key="]" line="503" column="6" />
+        <mark key="^" line="503" column="6" />
+        <mark key="." line="503" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchAssociationCell.m" timestamp="1491638950441">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="41" column="6" />
+        <mark key="." line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Network/MGNet/Other/MGListenRecordNet.m" timestamp="1510909170810">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGRecordViewController.m" timestamp="1491832934530">
+        <mark key="[" line="295" column="12" />
+        <mark key="]" line="295" column="15" />
+        <mark key="." line="295" column="15" />
+        <mark key="^" line="295" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/RadioViews/MGRadioActionView.m" timestamp="1491833615382">
+        <mark key="[" line="94" column="11" />
+        <mark key="]" line="94" column="11" />
+        <mark key="." line="94" column="11" />
+        <mark key="^" line="157" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Album/MGDigitalAlbumDetailTabController.m" timestamp="1491630827086">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Views/MGSongRankCell.m" timestamp="1491637114796">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="132" column="6" />
+        <mark key="." line="132" column="6" />
+        <mark key="^" line="132" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGConcertTypeViewController.m" timestamp="1491632670584">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="11" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="43" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGLyricSongLyricsCell.m" timestamp="1491637910254">
+        <mark key="[" line="79" column="39" />
+        <mark key="]" line="80" column="6" />
+        <mark key="." line="80" column="6" />
+        <mark key="^" line="80" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/HomePage/MGUpdatePasswordViewController.m" timestamp="1491631254402">
+        <mark key="[" line="80" column="70" />
+        <mark key="]" line="81" column="6" />
+        <mark key="." line="81" column="6" />
+        <mark key="^" line="81" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Feature/MGCRBTFeatureMVViewController.h" timestamp="1491396212550">
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/VideoPlayer/MGConcertVideoPlayerController/MGVideoPlayerControlView.m" timestamp="1491833928825">
+        <mark key="[" line="302" column="15" />
+        <mark key="]" line="302" column="15" />
+        <mark key="." line="302" column="15" />
+        <mark key="^" line="268" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MyRing/MGCRBTCommonCell.m" timestamp="1491635901693">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="126" column="6" />
+        <mark key="." line="126" column="6" />
+        <mark key="^" line="126" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/PrivateDoctorNetWorkTool.swift" timestamp="1522680546204">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="51" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/MiguCoin/MGCoinRecordViewController.m" timestamp="1491631413242">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="23" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="77" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/MGSingerHomeAlbumController.m" timestamp="1491637922322">
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="70" column="6" />
+        <mark key="." line="70" column="6" />
+        <mark key="^" line="70" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/CenterView/MGAlbumView.m" timestamp="1491637451836">
+        <mark key="[" line="118" column="5" />
+        <mark key="]" line="119" column="10" />
+        <mark key="." line="119" column="10" />
+        <mark key="^" line="119" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/VC/LaunchAd/MGAdLaunchView.m" timestamp="1502933124915">
+        <mark key="'" line="343" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSingerCell.m" timestamp="1491633941959">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="101" column="6" />
+        <mark key="." line="101" column="6" />
+        <mark key="^" line="101" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/SongMenu/MGBaseOnlineSongListGroupViewController.m" timestamp="1491637362627">
+        <mark key="[" line="47" column="96" />
+        <mark key="]" line="48" column="6" />
+        <mark key="." line="48" column="6" />
+        <mark key="^" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/PlayToneQuality/MGPlayToneQualityView.m" timestamp="1491637648881">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="57" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="184" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGConcertRecoController.m" timestamp="1491631987144">
+        <mark key="[" line="155" column="24" />
+        <mark key="]" line="156" column="10" />
+        <mark key="." line="156" column="10" />
+        <mark key="^" line="156" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/MyMusicSongList/MGSongListClassController.m" timestamp="1491833024513">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="11" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="122" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/Skin/MGSkinDetailViewController.m" timestamp="1491830944960">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="15" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSongView.m" timestamp="1491834615827">
+        <mark key="[" line="202" column="29" />
+        <mark key="]" line="202" column="35" />
+        <mark key="." line="202" column="29" />
+        <mark key="^" line="199" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/CRBTCommon/MGCRBTRelatedInfoView.m" timestamp="1491634366638">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="15" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="277" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/RankModels/MGColumnItemModel.h" timestamp="1490865954216">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGConcertTableViewController.m" timestamp="1491632641140">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="6" />
+        <mark key="." line="34" column="6" />
+        <mark key="^" line="34" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/Views/MGLiveTicketcell.m" timestamp="1491632179770">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="55" column="31" />
+        <mark key="^" line="55" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" timestamp="1522511062854">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/SongAction/MGPlayerSongActionView.h" timestamp="1490791150942">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Control/MGClient.m" timestamp="1491834229904">
+        <mark key="[" line="543" column="0" />
+        <mark key="]" line="543" column="0" />
+        <mark key="." line="543" column="0" />
+        <mark key="^" line="454" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/MyOrderController.swift" timestamp="1522570696796">
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="57" column="55" />
+        <mark key="^" line="57" column="55" />
+        <mark key="." line="57" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Feature/MGCRBTFeatureMVViewController.m" timestamp="1491832734232">
+        <mark key="[" line="327" column="0" />
+        <mark key="]" line="327" column="0" />
+        <mark key="." line="327" column="0" />
+        <mark key="^" line="334" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/MGRecommendViewControllerManager.m" timestamp="1491988566115">
+        <mark key="[" line="775" column="55" />
+        <mark key="]" line="775" column="55" />
+        <mark key="." line="775" column="55" />
+        <mark key="^" line="775" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/PlayListView/MGPlayerListViewCell.m" timestamp="1490798912269">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Vendors/HJDanmaku/HJDanmakuView.m" timestamp="1506564669822">
+        <mark key="'" line="934" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MyFriends/MGMyFollowerFriendViewController.m" timestamp="1491834627449">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="102" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/PlayList/MGPrivateFMList.h" timestamp="1490797550996">
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="55" />
+        <mark key="^" line="51" column="55" />
+        <mark key="." line="51" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadTableViewController.m" timestamp="1491633837866">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" timestamp="1522851486086">
+        <mark key="'" line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Views/MGSubRankHeaderView.m" timestamp="1491637119490">
+        <mark key="[" line="159" column="4" />
+        <mark key="]" line="160" column="6" />
+        <mark key="." line="160" column="6" />
+        <mark key="^" line="160" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" timestamp="1522900717622">
+        <mark key="'" line="803" column="8" />
+        <mark key="[" line="998" column="48" />
+        <mark key="]" line="998" column="49" />
+        <mark key="." line="998" column="49" />
+        <mark key="^" line="100" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGConcertControTopViewCell.m" timestamp="1491641031594">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="10" />
+        <mark key="." line="88" column="10" />
+        <mark key="^" line="88" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Models/MGSingerCategoryDetailColumnsResponseModel.m" timestamp="1491638921642">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" timestamp="1521537604641">
+        <mark key="'" line="117" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/MGOnlineFeaturedMVCell.m" timestamp="1491637300428">
+        <mark key="[" line="110" column="50" />
+        <mark key="]" line="111" column="6" />
+        <mark key="." line="111" column="6" />
+        <mark key="^" line="111" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendButtonsCell.m" timestamp="1491637331442">
+        <mark key="[" line="24" column="72" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListCell.m" timestamp="1491633224835">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="262" column="6" />
+        <mark key="." line="262" column="6" />
+        <mark key="^" line="262" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/TopRing/MGTopColorRingViewController.m" timestamp="1491832964701">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="89" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkinDemo/ZSkinDemo/ViewControllerMain.m" timestamp="1511857382918">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadingTableViewCell.h" timestamp="1490789223596">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Views/MGSplendidTopicCell.m" timestamp="1491636226057">
+        <mark key="[" line="56" column="41" />
+        <mark key="]" line="57" column="6" />
+        <mark key="." line="57" column="6" />
+        <mark key="^" line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGAdvertisementCell.m" timestamp="1491637309730">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="35" column="6" />
+        <mark key="^" line="35" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadBottomView.m" timestamp="1491832208850">
+        <mark key="[" line="1449" column="0" />
+        <mark key="]" line="1449" column="0" />
+        <mark key="^" line="847" column="46" />
+        <mark key="." line="1449" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/Views/MGVideoPlayerImageView.m" timestamp="1491632038585">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
+        <mark key="^" line="56" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/appcode.vmoptions" timestamp="1506335099795">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGGiftView.m" timestamp="1491831249561">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGBottomListView.m" timestamp="1491831545993">
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="0" />
+        <mark key="." line="405" column="0" />
+        <mark key="^" line="337" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGRecentCacheSettingView.m" timestamp="1491632930474">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="11" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="95" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/HomePage/MGAccountManageViewController.m" timestamp="1491631141238">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="53" />
+        <mark key="." line="276" column="0" />
+        <mark key="^" line="269" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGConcertTableViewCell.m" timestamp="1491831681970">
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="31" />
+        <mark key="." line="124" column="31" />
+        <mark key="^" line="124" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGLyricPosterViewController.m" timestamp="1491637901919">
+        <mark key="[" line="92" column="95" />
+        <mark key="]" line="93" column="6" />
+        <mark key="." line="93" column="6" />
+        <mark key="^" line="93" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Views/MGDIYButton.m" timestamp="1491636209034">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListImportSelectionViewController.m" timestamp="1491633476649">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="16" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="49" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGSearchResultSongViewController.m" timestamp="1491639024987">
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="15" />
+        <mark key="." line="316" column="0" />
+        <mark key="^" line="304" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/Model/MGDanMuModel.m" timestamp="1491632283002">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="38" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/CRBTCommon/MGContactListViewController.m" timestamp="1491832537898">
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="334" column="0" />
+        <mark key="^" line="431" column="6" />
+        <mark key="." line="334" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGChoiceDIYRingView.m" timestamp="1491635993613">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Views/WimoViews/MGSongWimoUnit.m" timestamp="1491834530263">
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="72" />
+        <mark key="." line="402" column="0" />
+        <mark key="^" line="184" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGMvManageCell.m" timestamp="1491831789996">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="31" />
+        <mark key="^" line="59" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGLyricPosterQRCodeView.m" timestamp="1491637896323">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="40" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Network/MGNet/Content/MGContentQueryYueBangNet.h" timestamp="1490950171149">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGSongListGroupViewController.m" timestamp="1491834599995">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="287" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGCutMusicSubview.m" timestamp="1491832889185">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="75" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSearchViewController.m" timestamp="1491633924491">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="10" />
+        <mark key="^" line="137" column="6" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Control/MGPrivateFMManager.m" timestamp="1491989444490">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="34" />
+        <mark key="^" line="112" column="43" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/MGLiveShowTicketViewController.m" timestamp="1491831312864">
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/MGSingerHomeMVViewController.m" timestamp="1491637938409">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="12" />
+        <mark key="." line="104" column="11" />
+        <mark key="^" line="104" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/Modules/MGFundation/Classes/Network/MGNetworkDAO.m" timestamp="1513412962578">
+        <mark key="'" line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Control/MGPrivateFMManager.h" timestamp="1491989384281">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Controllers/MGSlidePageScrollViewController.m" timestamp="1491637274747">
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="6" />
+        <mark key="^" line="51" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/MiguCoin/MGCoinPresentViewController.m" timestamp="1491631388626">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="77" column="6" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Controllers/MGNewestMusicAlbumListViewController.m" timestamp="1491833278464">
+        <mark key="[" line="169" column="5" />
+        <mark key="]" line="170" column="3" />
+        <mark key="." line="170" column="3" />
+        <mark key="^" line="170" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/PlayListView/MGRadioPlayerListView.m" timestamp="1491637639667">
+        <mark key="[" line="280" column="4" />
+        <mark key="]" line="281" column="6" />
+        <mark key="." line="281" column="6" />
+        <mark key="^" line="281" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" timestamp="1522681756198">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGCommentInformViewControllerN.m" timestamp="1491833787680">
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+        <mark key="^" line="76" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/View/HistoryReportModel.swift" timestamp="1522566886705">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="116" column="17" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGCommentDetailCell.m" timestamp="1491637776830">
+        <mark key="[" line="518" column="0" />
+        <mark key="]" line="518" column="31" />
+        <mark key="." line="518" column="0" />
+        <mark key="^" line="441" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/MGProtectionAppDelegate.m" timestamp="1491630800547">
+        <mark key="[" line="31" column="74" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/Lyric/MRCTableViewCell.m" timestamp="1491637511610">
+        <mark key="[" line="56" column="1" />
+        <mark key="]" line="57" column="6" />
+        <mark key="." line="57" column="6" />
+        <mark key="^" line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/NSObject+Dealloc.h" timestamp="1511848964322">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveStarInterviewController/MGMVCustomDetailViewController.m" timestamp="1491632262213">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="61" />
+        <mark key="." line="266" column="0" />
+        <mark key="^" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/NSObject+Dealloc.m" timestamp="1511856381490">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Models/MGSearchAllResponseModel.m" timestamp="1491638873963">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="15" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="214" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/ZBinderManager.m" timestamp="1511856465508">
+        <mark key="'" line="111" column="57" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="191" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/VideoPlayer/MGMVPlayerView/MGMVControlView.m" timestamp="1491833955659">
+        <mark key="[" line="303" column="15" />
+        <mark key="]" line="303" column="15" />
+        <mark key="^" line="293" column="6" />
+        <mark key="." line="303" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveController/MGLiveController.m" timestamp="1491831300853">
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="." line="375" column="0" />
+        <mark key="^" line="356" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/Lyric/LRCView.m" timestamp="1491833499896">
+        <mark key="[" line="217" column="16" />
+        <mark key="]" line="217" column="21" />
+        <mark key="." line="217" column="21" />
+        <mark key="^" line="217" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadingHeaderView.m" timestamp="1491633791775">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="11" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="63" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Views/MGMusicMVCell.m" timestamp="1491638938525">
+        <mark key="[" line="118" column="53" />
+        <mark key="]" line="119" column="6" />
+        <mark key="." line="119" column="6" />
+        <mark key="^" line="119" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Controllers/MusicRecognizer/MGRecognizerHistoryViewController.m" timestamp="1491631428359">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="198" column="6" />
+        <mark key="." line="198" column="6" />
+        <mark key="^" line="198" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/Views/MGLiveSingerHeaderViewCell.m" timestamp="1491632162163">
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/Views/MGIndexSongCell.m" timestamp="1491637075333">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="40" column="6" />
+        <mark key="." line="40" column="6" />
+        <mark key="^" line="40" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MVPlayer/Controllers/MGMVDetailsViewController.m" timestamp="1491641138973">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="58" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/MyRing/MGMyDIYRingViewController.m" timestamp="1491832862073">
+        <mark key="[" line="339" column="23" />
+        <mark key="]" line="339" column="23" />
+        <mark key="^" line="182" column="6" />
+        <mark key="." line="339" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Biz/MGLiveBiz.m" timestamp="1491639264582">
+        <mark key="[" line="137" column="9" />
+        <mark key="]" line="138" column="6" />
+        <mark key="." line="138" column="6" />
+        <mark key="^" line="138" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/VC/PublicViewController/MGVideoPlayer/MGConcertVideoPlayerController/MGVideoPlayerController.m" timestamp="1504094551277">
+        <mark key="'" line="316" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="121" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="52" column="35" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Feature/H5Pay/MGH5PayQueryStrategyNet.h" />
+      <jump line="78" column="16" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/App/Delegate/AppDelegate.m" />
+      <jump line="37" column="16" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="278" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="277" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="251" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="242" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="233" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="205" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" />
+      <jump line="88" column="6" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" />
+      <jump line="87" column="6" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" />
+      <jump line="133" column="8" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" />
+      <jump line="117" column="55" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" />
+      <jump line="17" column="15" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ChoosePackageController.swift" />
+      <jump line="14" column="6" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/View/ChoosePackageCell.swift" />
+      <jump line="48" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="100" column="3" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="66" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="31" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="107" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="71" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="82" column="10" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="69" column="14" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
+      <jump line="114" column="9" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="139" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="61" column="16" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="165" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="353" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="117" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="35" column="11" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
+      <jump line="84" column="11" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="88" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="129" column="23" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="47" column="40" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
+      <jump line="320" column="13" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
+      <jump line="208" column="36" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
+      <jump line="15" column="6" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
+      <jump line="370" column="12" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
+      <jump line="96" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="110" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="138" column="60" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="145" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="103" column="15" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="123" column="19" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="273" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="285" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="804" column="11" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="912" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="802" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="803" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="48" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
+      <jump line="78" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
+      <jump line="51" column="25" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
+      <jump line="50" column="85" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="63" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZGF0YT8ub3JkZXJTdGF0dXMgPSAiMCIK</text>
+      </register>
+      <register name="b" type="4">
+        <text>^eebveyj$bvepj</text>
+      </register>
+      <register name="c" type="4">
+        <text>^e dexjj</text>
+      </register>
+      <register name="d" type="4">
+        <text>^ee dejj</text>
+      </register>
+      <register name="-" type="4">
+        <text>let</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkYXRhXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZGF0YT8ub3JkZXJTdGF0dXMgPSAiMCIK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2dpbkluZm8gOiBMb2dpbkluZm9Nb2RlbD8gPSBMb2dpbkluZm9Ub29sLmdldExvZ2luSW5mbygpCiAgICAgICAgICAgICAgICBsb2dpbkluZm8/LmFsbG93Rm9sbG93RG9jdG9yID0gIjAiCiAgICAgICAgICAgICAgICBMb2dpbkluZm9Ub29sLnNhdmVMb2dpbkluZm8obG9naW5JbmZvISkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETzrmm7TmlrDnirbmgIEK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="u" type="4">
+        <text />
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgcGF5VkM6Q2FsbE5vdGljZUNvbnRyb2xsZXIgPSBVSVN0b3J5Ym9hcmQobmFtZTogIk1lc3NhZ2UiLCBidW5kbGU6IG5pbCkuaW5zdGFudGlhdGVWaWV3Q29udHJvbGxlcih3aXRoSWRlbnRpZmllcjogImNhbGxOb3RpY2VDb250cm9sbGVyIikgYXMhIENhbGxOb3RpY2VDb250cm9sbGVyCiAgICAgICAgcGF5VkMudGl0bGUgPSAi55S16K+d6aKE57qmIgogICAgICAgIHNlbGYubmF2aWdhdGlvbkl0ZW0uYmFja0JhckJ1dHRvbkl0ZW0gPSBVSUJhckJ1dHRvbkl0ZW0odGl0bGU6ICIiLCBzdHlsZTogVUlCYXJCdXR0b25JdGVtU3R5bGUucGxhaW4sIHRhcmdldDogbmlsLCBhY3Rpb246IG5pbCkKICAgICAgICBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyPy5uYXZpZ2F0aW9uQmFyLnRpbnRDb2xvciA9IFVJQ29sb3Iud2hpdGUKICAgICAgICBzZWxmLnNob3cocGF5VkMsIHNlbmRlcjogbmlsKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86Y2hlY2sK</text>
+      </register>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-replace>A</last-replace>
+      <last-substitute encoding="base64">XDxjb21wbGV0aW9uXD4=</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>addObserver</entry>
+        <entry encoding="base64">XDxdXD4=</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry>addObser</entry>
+        <entry encoding="base64">XDxjb2xsZWN0R2FyYmFnZVw+</entry>
+        <entry>count</entry>
+        <entry encoding="base64">XDxaUnVudGltZVV0aWxpdHlcPg==</entry>
+        <entry encoding="base64">XDxLX1NLSU5fTUFOQUdFUl9LRVlfUEFUSFw+</entry>
+        <entry encoding="base64">XDxBVkF1ZGlvU2Vzc2lvblw+</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxjb21tb2RpdHlEZXRhaWxDb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxleHBpcmVUaW1lXD4=</entry>
+        <entry encoding="base64">XDxsb2dpbkluZm9cPg==</entry>
+        <entry>info</entry>
+        <entry>message</entry>
+        <entry>show</entry>
+        <entry>check</entry>
+        <entry>case</entry>
+        <entry encoding="base64">XDxMb2dpbkluZm9Ub29sXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>24</entry>
+        <entry>80</entry>
+        <entry>8</entry>
+        <entry>1,20d</entry>
+        <entry>1$d</entry>
+        <entry>11,20</entry>
+        <entry>11,20d</entry>
+        <entry>10,$d</entry>
+        <entry>1,$d</entry>
+        <entry>weakself</entry>
+        <entry>doFini</entry>
+        <entry>clear</entry>
+        <entry>removeA</entry>
+        <entry>help</entry>
+        <entry>ayy</entry>
+        <entry>byy</entry>
+        <entry>ap</entry>
+        <entry>sam</entry>
+        <entry>int</entry>
+        <entry>x</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

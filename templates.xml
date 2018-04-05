@@ -1,0 +1,28 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="propa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="propc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="propr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="propro" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="prag" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

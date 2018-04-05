@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="DEFAULT_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+</application>

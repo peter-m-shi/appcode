@@ -1,0 +1,10 @@
+<application>
+  <component name="AMDeviceDatabase">
+    <option name="deviceTypeToArchitecture">
+      <map>
+        <entry key="iPhone7,1" value="arm64" />
+        <entry key="iPhone9,1" value="armv7s" />
+      </map>
+    </option>
+  </component>
+</application>

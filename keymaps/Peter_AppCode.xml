@@ -1,0 +1,45 @@
+<keymap version="1" name="Peter'AppCode" parent="Xcode">
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateStructureToolWindow" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="SelectAllOccurrences" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+</keymap>

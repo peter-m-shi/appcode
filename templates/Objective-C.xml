@@ -1,0 +1,124 @@
+<templateSet group="Objective-C">
+  <template name="each" value="for ($ITEM_TYPE$ $VAR$ in $COLLECTION$)&#10;{&#10;  $END$&#10;}" description="Iterate a collection" toReformat="true" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="fastEnumeration()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM_TYPE" expression="guessElementType()" defaultValue="&quot;id&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="&quot;a&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="kind" value="if ([$VAR$ isKindOfClass: [$CLASS$ class]]) &#10;{&#10;  $CLASS_COPY$ *$NEW_VAR$ = ($CLASS_COPY$*)$VAR_COPY$;&#10;  $END$&#10;}" description="isKindOfClass" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(&quot;id&quot;)" defaultValue="a" alwaysStopAt="true" />
+    <variable name="CLASS" expression="&quot;NSObject&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_COPY" expression="CLASS" defaultValue="" alwaysStopAt="false" />
+    <variable name="NEW_VAR" expression="suggestVariableName()" defaultValue="b" alwaysStopAt="true" />
+    <variable name="VAR_COPY" expression="VAR" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="prow" value="@property (nonatomic, weak) $DECLARATION$;$END$" description="@property (nonatomic,weak)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="proc" value="@property (nonatomic, copy) $DECLARATION$;$END$" description="@property (nonatomic,copy)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="proro" value="@property (nonatomic, retain) $DECLARATION$;$END$" description="@property (nonatomic,retain)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pror" value="@property (nonatomic, readonly) $DECLARATION$;$END$" description="@property (nonatomic,readonly)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pra" value="#pragma mark - $END$ -" description="#pragma mark" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="proa" value="@property (nonatomic, assign) $DECLARATION$;$END$" description="@property (nonatomic,assign)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="prorw" value="@property (nonatomic, readwrite) $DECLARATION$;$END$" description="@property (nonatomic,readwrite)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="swi" value="switch($KEY$)&#10;{&#10;case $ENUM$:&#10;    $END$&#10;    break;&#10;default:&#10;    break;&#10;}" description="switch" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENUM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pro" value="@property (nonatomic) $DECLARATION$;$END$" description="@property (nonatomic)" toReformat="true" toShortenFQNames="true">
+    <variable name="DECLARATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="ibac" value="- (IBAction)$MESSAGE$:(id)sender&#10;{&#10;    $BODY$&#10;}$END$" description="-(IBAction)message:(id)sender" toReformat="true" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="--" value="- ($RETURN$)$FUNCTION_NAME$&#10;{&#10;    $BODY$&#10;}$END$" description="function" toReformat="true" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="++" value="+ ($RETURN$)$FUNCTION_NAME$&#10;{&#10;    $BODY$&#10;}$END$" description="function" toReformat="true" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="try" value="    @try&#10;    {$END$&#10;    }&#10;    @catch (NSException *exception)&#10;    {&#10;    }&#10;    @finally&#10;    {&#10;    }" description="@try catch" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OC_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="////" value="/**&#10; * @author $author$, $nowDate$&#10; * &#10; * $CONTEXT$&#10; * &#10; */ " description="add Comments With Info" toReformat="true" toShortenFQNames="true">
+    <variable name="author" expression="user()" defaultValue="&quot;peter.shi&quot;" alwaysStopAt="true" />
+    <variable name="nowDate" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTEXT" expression="suggestVariableName()" defaultValue="&quot;Comments Here&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="///" value="/**&#10; * &#10; * $CONTEXT$&#10; * &#10; */ " description="add Comments" toReformat="true" toShortenFQNames="true">
+    <variable name="CONTEXT" expression="suggestVariableName()" defaultValue="&quot;Comments Here&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="+" value="+ ($RETURN$)$FUNCTION_NAME$;" description="function define" toReformat="true" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="-" value="- ($RETURN$)$FUNCTION_NAME$;" description="function define" toReformat="true" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

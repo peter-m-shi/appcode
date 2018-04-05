@@ -1,0 +1,12 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Documents/Data/Demo" />
+    <string key="organizationName" value="pinguo" />
+    <string key="languageChoice" value="Objective-C" />
+    <string key="bundleIdentifierPrefix" value="com.pinguo" />
+    <boolean key="hasUnitTests" value="true" />
+    <boolean key="coreData" value="false" />
+    <boolean key="hasUITests" value="true" />
+    <string key="universalDeviceFamily" value="iPhone" />
+  </component>
+</application>
