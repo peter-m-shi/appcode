@@ -215,6 +215,13 @@
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" timestamp="1522903900424">
+        <mark key="'" line="249" column="0" />
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="46" />
+        <mark key="^" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Util/MGUserRequestManager.m" timestamp="1491640914117">
         <mark key="[" line="24" column="68" />
         <mark key="]" line="25" column="6" />
@@ -650,7 +657,8 @@
       <file name="$USER_HOME$/Desktop/Demo/Carthage/Checkouts/QuietModemKit/QuietModemKit/QMFrameTransmitter.m" timestamp="1504696326987">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522680124266">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522903484291">
+        <mark key="'" line="448" column="0" />
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="17" />
         <mark key="^" line="29" column="17" />
@@ -709,9 +717,6 @@
         <mark key="]" line="37" column="30" />
         <mark key="^" line="37" column="30" />
         <mark key="." line="37" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1521537579017">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Categories/UIScrollView+TwitterCover.m" timestamp="1491834466424">
         <mark key="[" line="152" column="0" />
@@ -992,6 +997,10 @@
         <mark key="." line="235" column="10" />
         <mark key="^" line="235" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522903608024">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendSongListCell.m" timestamp="1491637359321">
         <mark key="[" line="193" column="5" />
         <mark key="]" line="194" column="6" />
@@ -1015,9 +1024,6 @@
         <mark key="]" line="41" column="6" />
         <mark key="." line="41" column="6" />
         <mark key="^" line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Network/MGNet/Other/MGListenRecordNet.m" timestamp="1510909170810">
-        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/RingDIY/MGRecordViewController.m" timestamp="1491832934530">
         <mark key="[" line="295" column="12" />
@@ -1633,10 +1639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="153" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
       <jump line="164" column="0" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/Control/MGNetworkFlowManager.m" />
@@ -1733,6 +1735,10 @@
       <jump line="78" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
       <jump line="51" column="25" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
       <jump line="50" column="85" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" />
+      <jump line="56" column="4" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" />
+      <jump line="32" column="7" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" />
+      <jump line="448" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" />
+      <jump line="238" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1744,8 +1750,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZGF0YT8ub3JkZXJTdGF0dXMgPSAiMCIK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1757,43 +1763,43 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZGF0YT8ub3JkZXJTdGF0dXMgPSAiMCIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAhc2VsZi5yZWNvcmQzMEJ0bi5pc1NlbGVjdGVkIHsKICAgICAgICAgICAgc2VsZi5yZWNvcmQzMEJ0bi5pc1NlbGVjdGVkID0gdHJ1ZQogICAgICAgICAgICBzZWxmLnJlY29yZDYwQnRuLmlzU2VsZWN0ZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2dpbkluZm8gOiBMb2dpbkluZm9Nb2RlbD8gPSBMb2dpbkluZm9Ub29sLmdldExvZ2luSW5mbygpCiAgICAgICAgICAgICAgICBsb2dpbkluZm8/LmFsbG93Rm9sbG93RG9jdG9yID0gIjAiCiAgICAgICAgICAgICAgICBMb2dpbkluZm9Ub29sLnNhdmVMb2dpbkluZm8obG9naW5JbmZvISkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNvcmQzMEJ0bi5pc1NlbGVjdGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETzrmm7TmlrDnirbmgIEK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kZXIuaXNTZWxlY3RlZCA9ICFzZW5kZXIuaXNTZWxlY3RlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYGoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlY29yZDMwQnRuLmlzU2VsZWN0ZWQgPSBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlY29yZDMwQnRuLmlzU2VsZWN0ZWQgPSAhc2VsZi5yZWNvcmQzMEJ0bi5pc1NlbGVjdGVkOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlY29yZDMwQnRuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcGF5VkM6Q2FsbE5vdGljZUNvbnRyb2xsZXIgPSBVSVN0b3J5Ym9hcmQobmFtZTogIk1lc3NhZ2UiLCBidW5kbGU6IG5pbCkuaW5zdGFudGlhdGVWaWV3Q29udHJvbGxlcih3aXRoSWRlbnRpZmllcjogImNhbGxOb3RpY2VDb250cm9sbGVyIikgYXMhIENhbGxOb3RpY2VDb250cm9sbGVyCiAgICAgICAgcGF5VkMudGl0bGUgPSAi55S16K+d6aKE57qmIgogICAgICAgIHNlbGYubmF2aWdhdGlvbkl0ZW0uYmFja0JhckJ1dHRvbkl0ZW0gPSBVSUJhckJ1dHRvbkl0ZW0odGl0bGU6ICIiLCBzdHlsZTogVUlCYXJCdXR0b25JdGVtU3R5bGUucGxhaW4sIHRhcmdldDogbmlsLCBhY3Rpb246IG5pbCkKICAgICAgICBzZWxmLm5hdmlnYXRpb25Db250cm9sbGVyPy5uYXZpZ2F0aW9uQmFyLnRpbnRDb2xvciA9IFVJQ29sb3Iud2hpdGUKICAgICAgICBzZWxmLnNob3cocGF5VkMsIHNlbmRlcjogbmlsKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2dpbkluZm8gOiBMb2dpbkluZm9Nb2RlbD8gPSBMb2dpbkluZm9Ub29sLmdldExvZ2luSW5mbygpCiAgICAgICAgICAgICAgICBsb2dpbkluZm8/LmFsbG93Rm9sbG93RG9jdG9yID0gIjAiCiAgICAgICAgICAgICAgICBMb2dpbkluZm9Ub29sLnNhdmVMb2dpbkluZm8obG9naW5JbmZvISkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86Y2hlY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETzrmm7TmlrDnirbmgIEK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
