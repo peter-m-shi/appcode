@@ -1033,9 +1033,12 @@
         <mark key="." line="235" column="10" />
         <mark key="^" line="235" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522903608024">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="47" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522938523858">
+        <mark key="'" line="77" column="32" />
+        <mark key="[" line="116" column="9" />
+        <mark key="]" line="118" column="57" />
+        <mark key="^" line="118" column="57" />
+        <mark key="." line="118" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendSongListCell.m" timestamp="1491637359321">
         <mark key="[" line="193" column="5" />
@@ -1257,6 +1260,10 @@
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Vendors/HJDanmaku/HJDanmakuView.m" timestamp="1506564669822">
         <mark key="'" line="934" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/View/BottomView.swift" timestamp="1522938223994">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MyFriends/MGMyFollowerFriendViewController.m" timestamp="1491834627449">
         <mark key="[" line="98" column="0" />
@@ -1680,15 +1687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="158" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="100" column="3" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="31" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="107" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
       <jump line="71" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
       <jump line="82" column="10" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
       <jump line="69" column="14" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
@@ -1780,6 +1778,15 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="138" column="46" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="188" column="9" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="77" column="32" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1792,7 +1799,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Peter</text>
+        <text encoding="base64">ID0gZmFsc2U=</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1804,65 +1811,52 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>Peter</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>switch</text>
+        <text>delegate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNoYXJlSW5mby5zaGFyZWRJbnN0YW5jZSgpLmlzRXhpc3QgPSAiMSIKICAgICAgICAgICAgICAgIGxldCBteU9yZGVyVmMgPSBNeU9yZGVyQ29udHJvbGxlcigpCiAgICAgICAgICAgICAgICBzZWxmLnNob3cobXlPcmRlclZjLCBzZW5kZXI6IG5pbCkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ID0gZmFsc2U=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIueCueWHu+S6huehruWumiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2luQnV0dG9uLmJhY2tncm91bmRDb2xvciA9IFVJQ29sb3IuaW5pdChoZXhTdHJpbmc6ICJkYmRiZGIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>var isOrderList = false
-        self.navigationController?.viewControllers.forEach({ (viewController) in
-            if viewController is MyOrderController {
-                isOrderList = true
-            }
-        })
-        
-        if isOrderList {
-            self.navigationController?.popViewController(animated: true)
-        }else {
-            ShareInfo.sharedInstance().isExist = &quot;1&quot;
-            let myOrderVc = MyOrderController()
-            self.show(myOrderVc, sender: nil)
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIGZ1bmMgVUlDb2xvckhleF9BbHBoYSh2YWx1ZTogVUludDMyLCBhbHBoYTogQ0dGbG9hdCkgLT4gVUlDb2xvciB7CiAgICAgICAgbGV0IGNvbG9yID0gVUlDb2xvci5pbml0KHJlZDogKCgoQ0dGbG9hdCkoKHZhbHVlICYgMHhGRjAwMDApID4+IDE2KSkgLyAyNTUuMCksIGdyZWVuOiAoKChDR0Zsb2F0KSgodmFsdWUgJiAweEZGMDAwMCkgPj4gMTYpKSAvIDI1NS4wKSwgYmx1ZTogKCgoQ0dGbG9hdCkoKHZhbHVlICYgMHhGRjAwMDApID4+IDE2KSkgLyAyNTUuMCksIGFscGhhOiBhbHBoYSkKICAgICAgICByZXR1cm4gY29sb3IKICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcXVlcnlWQyA9IFIuc3Rvcnlib2FyZC5sb2dpbkFuZFJlZ2lzdCgpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJKS1F1ZXJ5RG9jdG9yUmVsYXRpb25WQyIpIGFzISBKS1F1ZXJ5RG9jdG9yUmVsYXRpb25WQwogICAgICAgIHF1ZXJ5VkMuZG9jdG9yTmFtZSA9ICJQZXRlciIKICAgICAgICBzZWxmLnNob3cocXVlcnlWQywgc2VuZGVyOiBuaWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjEiIHsKICAgICAgICAgICAgbGV0IGFkZFBhdGllbnRJbmZvVkMgPSBVSVN0b3J5Ym9hcmQobmFtZTogIkxvZ2luQW5kUmVnaXN0IiwgYnVuZGxlOiBuaWwpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJhZGRpbmZvIikgYXMhIEZpbGxJblBhdGllbnRJbmZvVkMKICAgICAgICAgICAgYWRkUGF0aWVudEluZm9WQy50aXRsZSA9ICLloavlhpnmgqPogIXkv6Hmga8iCiAgICAgICAgICAgIHNlbGYuc2hvdyhhZGRQYXRpZW50SW5mb1ZDLCBzZW5kZXI6IG5pbCkKICAgICAgICB9ZWxzZSBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjIiIHsKICAgICAgICAgICAgbGV0IHZpc2l0VmMgPSBSLnN0b3J5Ym9hcmQubG9naW5BbmRSZWdpc3QoKS5pbnN0YW50aWF0ZVZpZXdDb250cm9sbGVyKHdpdGhJZGVudGlmaWVyOiAiZm9sbG93RG9jdG9yQ29udHJvbGxlciIpCiAgICAgICAgICAgIHNlbGYuc2hvdyh2aXNpdFZjLCBzZW5kZXI6IG5pbCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjEiIHsKICAgICAgICAgICAgbGV0IGFkZFBhdGllbnRJbmZvVkMgPSBVSVN0b3J5Ym9hcmQobmFtZTogIkxvZ2luQW5kUmVnaXN0IiwgYnVuZGxlOiBuaWwpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJhZGRpbmZvIikgYXMhIEZpbGxJblBhdGllbnRJbmZvVkMKICAgICAgICAgICAgYWRkUGF0aWVudEluZm9WQy50aXRsZSA9ICLloavlhpnmgqPogIXkv6Hmga8iCiAgICAgICAgICAgIHNlbGYuc2hvdyhhZGRQYXRpZW50SW5mb1ZDLCBzZW5kZXI6IG5pbCkKICAgICAgICB9ZWxzZSBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjIiIHsKICAgICAgICAgICAgbGV0IHZpc2l0VmMgPSBSLnN0b3J5Ym9hcmQubG9naW5BbmRSZWdpc3QoKS5pbnN0YW50aWF0ZVZpZXdDb250cm9sbGVyKHdpdGhJZGVudGlmaWVyOiAiZm9sbG93RG9jdG9yQ29udHJvbGxlciIpCiAgICAgICAgICAgIHNlbGYuc2hvdyh2aXNpdFZjLCBzZW5kZXI6IG5pbCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdGV4dEZpZWxkLnRleHQ/LmNvdW50ICE9IDAgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1CUHJvZ3Jlc3NIVUQuc2hvd0Vycm9yKCLljLvnlJ/lhbPogZTkuK3vvIzor7fnqI3lgJnkvb/nlKjmraTlip/og70iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>switch</last-search>
+      <last-search>delegate</last-search>
       <last-offset />
-      <last-pattern>switch</last-pattern>
+      <last-pattern>delegate</last-pattern>
       <last-replace>A</last-replace>
       <last-substitute encoding="base64">XDxjb21wbGV0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1870,8 +1864,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxaUnVudGltZVV0aWxpdHlcPg==</entry>
-        <entry encoding="base64">XDxLX1NLSU5fTUFOQUdFUl9LRVlfUEFUSFw+</entry>
         <entry encoding="base64">XDxBVkF1ZGlvU2Vzc2lvblw+</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxjb21tb2RpdHlEZXRhaWxDb250ZW50XD4=</entry>
@@ -1890,6 +1882,8 @@
         <entry>Pre</entry>
         <entry>DEBUG</entry>
         <entry>switch</entry>
+        <entry encoding="base64">XDx0ZXh0RmllbGREaWRFbmRFZGl0aW5nXD4=</entry>
+        <entry>delegate</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
