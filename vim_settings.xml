@@ -111,11 +111,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" timestamp="1522896185384">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" timestamp="1522930342989">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="376" column="0" />
-        <mark key="]" line="376" column="0" />
-        <mark key="." line="376" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="6" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="57" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Vendors/MGNativeAdObj.m" timestamp="1491639962474">
         <mark key="[" line="94" column="0" />
@@ -219,12 +220,12 @@
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" timestamp="1522915608810">
-        <mark key="'" line="249" column="0" />
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="46" />
-        <mark key="^" line="65" column="46" />
-        <mark key="." line="65" column="46" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" timestamp="1522930736767">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="6" />
+        <mark key="^" line="151" column="5" />
+        <mark key="." line="151" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Util/MGUserRequestManager.m" timestamp="1491640914117">
         <mark key="[" line="24" column="68" />
@@ -261,6 +262,11 @@
         <mark key="]" line="68" column="30" />
         <mark key="^" line="68" column="30" />
         <mark key="." line="68" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJConnectDeviceViewController.swift" timestamp="1522930843989">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="6" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/General/Macro/MGConfig.h" timestamp="1491039202077">
         <mark key="[" line="47" column="10" />
@@ -496,6 +502,11 @@
         <mark key="." line="21" column="6" />
         <mark key="^" line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/AppDelegate.swift" timestamp="1522930811138">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="6" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Biz/MGBaseBiz.m" timestamp="1491639238655">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="20" />
@@ -665,12 +676,12 @@
       <file name="$USER_HOME$/Desktop/Demo/Carthage/Checkouts/QuietModemKit/QuietModemKit/QMFrameTransmitter.m" timestamp="1504696326987">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522903484291">
-        <mark key="'" line="448" column="0" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="17" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522930757054">
+        <mark key="'" line="457" column="0" />
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="440" column="6" />
         <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+        <mark key="." line="440" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/MGAudioPlayer.m" timestamp="1490840774322">
         <mark key="[" line="284" column="53" />
@@ -822,6 +833,11 @@
         <mark key="." line="58" column="6" />
         <mark key="^" line="58" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/SettingController.swift" timestamp="1522930814643">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="6" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Rank/RankModels/MGColumnViewModel.h" timestamp="1490866029827">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -882,9 +898,12 @@
         <mark key="^" line="63" column="6" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" timestamp="1522924142173">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" timestamp="1522930884340">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="480" column="117" />
+        <mark key="[" line="595" column="0" />
+        <mark key="]" line="595" column="0" />
+        <mark key="^" line="812" column="9" />
+        <mark key="." line="595" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Views/MGSkinPreviewView.m" timestamp="1491631657403">
         <mark key="[" line="41" column="101" />
@@ -1372,6 +1391,11 @@
         <mark key="." line="276" column="0" />
         <mark key="^" line="269" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/FillInPatientInfoVC.swift" timestamp="1522930769688">
+        <mark key="[" line="589" column="0" />
+        <mark key="]" line="589" column="6" />
+        <mark key="." line="589" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MGConcertTableViewCell.m" timestamp="1491831681970">
         <mark key="[" line="124" column="26" />
         <mark key="]" line="124" column="31" />
@@ -1518,6 +1542,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PerfectData/PerfectDataController.swift" timestamp="1522930778928">
+        <mark key="[" line="717" column="0" />
+        <mark key="]" line="717" column="6" />
+        <mark key="." line="717" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGCommentViewController/MGCommentInformViewControllerN.m" timestamp="1491833787680">
         <mark key="[" line="297" column="0" />
         <mark key="]" line="297" column="0" />
@@ -1580,12 +1609,12 @@
         <mark key="." line="202" column="0" />
         <mark key="^" line="191" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" timestamp="1522924771616">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="36" column="108" />
-        <mark key="]" line="36" column="110" />
-        <mark key="." line="36" column="108" />
-        <mark key="^" line="36" column="52" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" timestamp="1522930833862">
+        <mark key="'" line="181" column="0" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="6" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/VideoPlayer/MGMVPlayerView/MGMVControlView.m" timestamp="1491833955659">
         <mark key="[" line="303" column="15" />
@@ -1769,8 +1798,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1787,38 +1816,38 @@
       <register name="/" type="4">
         <text>Pre</text>
       </register>
-      <register name="0" type="4">
-        <text>.f</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9zZWxlY3RlZEluZGV4ID0gaW5kZXhQYXRoLnJvdzsK</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgLy8gICDmmL7npLrlr7nlj7cK</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgMi7lj5blvpfngrnlh7vnmoTpgqPkuIDooYznmoTljZXlhYPmoLzvvIjmlrDvvIkK</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAg6ZqQ6JeP5a+55Y+3Cg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNlbGwuYWNjZXNzb3J5VHlwZSA9IFVJVGFibGVWaWV3Q2VsbEFjY2Vzc29yeUNoZWNrbWFyazsK</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wcmVzZW50KGNvbm5lY3RWYywgYW5pbWF0ZWQ6IHRydWUsIGNvbXBsZXRpb246IG5pbCkK</text>
+        <text encoding="base64">I2lmICFhcmNoKGkzODYpICYmICFhcmNoKHg4Nl82NCkgCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
