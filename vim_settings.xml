@@ -564,6 +564,12 @@
         <mark key="." line="219" column="7" />
         <mark key="^" line="102" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/MyHomeViewController.swift" timestamp="1522935685521">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="291" column="18" />
+        <mark key="]" line="291" column="18" />
+        <mark key="." line="291" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Album/MGAlbumDetailTabController.m" timestamp="1491630810579">
         <mark key="[" line="125" column="30" />
         <mark key="]" line="126" column="11" />
@@ -823,7 +829,8 @@
         <mark key="." line="58" column="6" />
         <mark key="^" line="58" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/SettingController.swift" timestamp="1522930814643">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/SettingController.swift" timestamp="1522935548350">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="6" />
         <mark key="." line="54" column="0" />
@@ -1002,9 +1009,9 @@
       <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/Model/XJEcgFileReader.m" timestamp="1522932209654">
         <mark key="'" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ConfirmOrderController.swift" timestamp="1522934401765">
-        <mark key="[" line="192" column="45" />
-        <mark key="]" line="192" column="46" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ConfirmOrderController.swift" timestamp="1522935678478">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="207" column="49" />
         <mark key="^" line="192" column="46" />
         <mark key="." line="192" column="46" />
       </file>
@@ -1278,12 +1285,12 @@
         <mark key="." line="160" column="6" />
         <mark key="^" line="160" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" timestamp="1522933374437">
-        <mark key="'" line="265" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" timestamp="1522935948747">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="103" column="38" />
+        <mark key="]" line="103" column="38" />
         <mark key="^" line="115" column="34" />
-        <mark key="." line="120" column="0" />
+        <mark key="." line="103" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGConcertTrailerController/MGConcertTabbar/MGConcertControTopViewCell.m" timestamp="1491641031594">
         <mark key="[" line="88" column="12" />
@@ -1535,11 +1542,6 @@
         <mark key="." line="281" column="6" />
         <mark key="^" line="281" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" timestamp="1522681756198">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PerfectData/PerfectDataController.swift" timestamp="1522930778928">
         <mark key="[" line="693" column="0" />
         <mark key="]" line="693" column="6" />
@@ -1678,12 +1680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="8" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" />
-      <jump line="117" column="55" filename="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/ShipingCaiLing/MGBasicVideoPlayer/MGBasicPlayerView.m" />
-      <jump line="17" column="15" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ChoosePackageController.swift" />
-      <jump line="14" column="6" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/View/ChoosePackageCell.swift" />
-      <jump line="48" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
       <jump line="158" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" />
@@ -1771,13 +1767,19 @@
       <jump line="813" column="4" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
       <jump line="1007" column="57" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="18" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ConfirmOrderController.swift" />
       <jump line="203" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/ConfirmOrderController.swift" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/SettingController.swift" />
+      <jump line="55" column="10" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/MyHomeViewController.swift" />
+      <jump line="329" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/MyHomeViewController.swift" />
+      <jump line="188" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/MyHome/Controller/MyHomeViewController.swift" />
+      <jump line="998" column="48" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1790,7 +1792,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>的</text>
+        <text>Peter</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1802,24 +1804,27 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>的</text>
+        <text>Peter</text>
       </register>
       <register name="/" type="4">
-        <text>Pre</text>
+        <text>switch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrSW50ZWdyaXR5T2ZJbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNoYXJlSW5mby5zaGFyZWRJbnN0YW5jZSgpLmlzRXhpc3QgPSAiMSIKICAgICAgICAgICAgICAgIGxldCBteU9yZGVyVmMgPSBNeU9yZGVyQ29udHJvbGxlcigpCiAgICAgICAgICAgICAgICBzZWxmLnNob3cobXlPcmRlclZjLCBzZW5kZXI6IG5pbCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIueCueWHu+S6huehruWumiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIueCueWHu+S6huehruWumiIpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAKCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>var isOrderList = false
         self.navigationController?.viewControllers.forEach({ (viewController) in
             if viewController is MyOrderController {
@@ -1835,32 +1840,29 @@
             self.show(myOrderVc, sender: nil)
         }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcXVlcnlWQyA9IFIuc3Rvcnlib2FyZC5sb2dpbkFuZFJlZ2lzdCgpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJKS1F1ZXJ5RG9jdG9yUmVsYXRpb25WQyIpIGFzISBKS1F1ZXJ5RG9jdG9yUmVsYXRpb25WQwogICAgICAgIHF1ZXJ5VkMuZG9jdG9yTmFtZSA9ICJQZXRlciIKICAgICAgICBzZWxmLnNob3cocXVlcnlWQywgc2VuZGVyOiBuaWwpCg==</text>
-      </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjEiIHsKICAgICAgICAgICAgbGV0IGFkZFBhdGllbnRJbmZvVkMgPSBVSVN0b3J5Ym9hcmQobmFtZTogIkxvZ2luQW5kUmVnaXN0IiwgYnVuZGxlOiBuaWwpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJhZGRpbmZvIikgYXMhIEZpbGxJblBhdGllbnRJbmZvVkMKICAgICAgICAgICAgYWRkUGF0aWVudEluZm9WQy50aXRsZSA9ICLloavlhpnmgqPogIXkv6Hmga8iCiAgICAgICAgICAgIHNlbGYuc2hvdyhhZGRQYXRpZW50SW5mb1ZDLCBzZW5kZXI6IG5pbCkKICAgICAgICB9ZWxzZSBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjIiIHsKICAgICAgICAgICAgbGV0IHZpc2l0VmMgPSBSLnN0b3J5Ym9hcmQubG9naW5BbmRSZWdpc3QoKS5pbnN0YW50aWF0ZVZpZXdDb250cm9sbGVyKHdpdGhJZGVudGlmaWVyOiAiZm9sbG93RG9jdG9yQ29udHJvbGxlciIpCiAgICAgICAgICAgIHNlbGYuc2hvdyh2aXNpdFZjLCBzZW5kZXI6IG5pbCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcXVlcnlWQyA9IFIuc3Rvcnlib2FyZC5sb2dpbkFuZFJlZ2lzdCgpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJKS1F1ZXJ5RG9jdG9yUmVsYXRpb25WQyIpIGFzISBKS1F1ZXJ5RG9jdG9yUmVsYXRpb25WQwogICAgICAgIHF1ZXJ5VkMuZG9jdG9yTmFtZSA9ICJQZXRlciIKICAgICAgICBzZWxmLnNob3cocXVlcnlWQywgc2VuZGVyOiBuaWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjEiIHsKICAgICAgICAgICAgbGV0IGFkZFBhdGllbnRJbmZvVkMgPSBVSVN0b3J5Ym9hcmQobmFtZTogIkxvZ2luQW5kUmVnaXN0IiwgYnVuZGxlOiBuaWwpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJhZGRpbmZvIikgYXMhIEZpbGxJblBhdGllbnRJbmZvVkMKICAgICAgICAgICAgYWRkUGF0aWVudEluZm9WQy50aXRsZSA9ICLloavlhpnmgqPogIXkv6Hmga8iCiAgICAgICAgICAgIHNlbGYuc2hvdyhhZGRQYXRpZW50SW5mb1ZDLCBzZW5kZXI6IG5pbCkKICAgICAgICB9ZWxzZSBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjIiIHsKICAgICAgICAgICAgbGV0IHZpc2l0VmMgPSBSLnN0b3J5Ym9hcmQubG9naW5BbmRSZWdpc3QoKS5pbnN0YW50aWF0ZVZpZXdDb250cm9sbGVyKHdpdGhJZGVudGlmaWVyOiAiZm9sbG93RG9jdG9yQ29udHJvbGxlciIpCiAgICAgICAgICAgIHNlbGYuc2hvdyh2aXNpdFZjLCBzZW5kZXI6IG5pbCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjEiIHsKICAgICAgICAgICAgbGV0IGFkZFBhdGllbnRJbmZvVkMgPSBVSVN0b3J5Ym9hcmQobmFtZTogIkxvZ2luQW5kUmVnaXN0IiwgYnVuZGxlOiBuaWwpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJhZGRpbmZvIikgYXMhIEZpbGxJblBhdGllbnRJbmZvVkMKICAgICAgICAgICAgYWRkUGF0aWVudEluZm9WQy50aXRsZSA9ICLloavlhpnmgqPogIXkv6Hmga8iCiAgICAgICAgICAgIHNlbGYuc2hvdyhhZGRQYXRpZW50SW5mb1ZDLCBzZW5kZXI6IG5pbCkKICAgICAgICB9ZWxzZSBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjIiIHsKICAgICAgICAgICAgbGV0IHZpc2l0VmMgPSBSLnN0b3J5Ym9hcmQubG9naW5BbmRSZWdpc3QoKS5pbnN0YW50aWF0ZVZpZXdDb250cm9sbGVyKHdpdGhJZGVudGlmaWVyOiAiZm9sbG93RG9jdG9yQ29udHJvbGxlciIpCiAgICAgICAgICAgIHNlbGYuc2hvdyh2aXNpdFZjLCBzZW5kZXI6IG5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1CUHJvZ3Jlc3NIVUQuc2hvd0Vycm9yKCLljLvnlJ/lhbPogZTkuK3vvIzor7fnqI3lgJnkvb/nlKjmraTlip/og70iKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjEiIHsKICAgICAgICAgICAgbGV0IGFkZFBhdGllbnRJbmZvVkMgPSBVSVN0b3J5Ym9hcmQobmFtZTogIkxvZ2luQW5kUmVnaXN0IiwgYnVuZGxlOiBuaWwpLmluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXIod2l0aElkZW50aWZpZXI6ICJhZGRpbmZvIikgYXMhIEZpbGxJblBhdGllbnRJbmZvVkMKICAgICAgICAgICAgYWRkUGF0aWVudEluZm9WQy50aXRsZSA9ICLloavlhpnmgqPogIXkv6Hmga8iCiAgICAgICAgICAgIHNlbGYuc2hvdyhhZGRQYXRpZW50SW5mb1ZDLCBzZW5kZXI6IG5pbCkKICAgICAgICB9ZWxzZSBpZiBsb2dpbkluZm8/LmluZm9TdGF0dXMgPT0gIjIiIHsKICAgICAgICAgICAgbGV0IHZpc2l0VmMgPSBSLnN0b3J5Ym9hcmQubG9naW5BbmRSZWdpc3QoKS5pbnN0YW50aWF0ZVZpZXdDb250cm9sbGVyKHdpdGhJZGVudGlmaWVyOiAiZm9sbG93RG9jdG9yQ29udHJvbGxlciIpCiAgICAgICAgICAgIHNlbGYuc2hvdyh2aXNpdFZjLCBzZW5kZXI6IG5pbCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1CUHJvZ3Jlc3NIVUQuc2hvd0Vycm9yKCLljLvnlJ/lhbPogZTkuK3vvIzor7fnqI3lgJnkvb/nlKjmraTlip/og70iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>Pre</last-search>
+      <last-search>switch</last-search>
       <last-offset />
-      <last-pattern>Pre</last-pattern>
+      <last-pattern>switch</last-pattern>
       <last-replace>A</last-replace>
       <last-substitute encoding="base64">XDxjb21wbGV0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1868,8 +1870,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2xsZWN0R2FyYmFnZVw+</entry>
-        <entry>count</entry>
         <entry encoding="base64">XDxaUnVudGltZVV0aWxpdHlcPg==</entry>
         <entry encoding="base64">XDxLX1NLSU5fTUFOQUdFUl9LRVlfUEFUSFw+</entry>
         <entry encoding="base64">XDxBVkF1ZGlvU2Vzc2lvblw+</entry>
@@ -1888,6 +1888,8 @@
         <entry>present</entry>
         <entry>customPresentViewController</entry>
         <entry>Pre</entry>
+        <entry>DEBUG</entry>
+        <entry>switch</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
