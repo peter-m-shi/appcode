@@ -12,6 +12,13 @@
       <file name="$USER_HOME$/Documents/Data/Project/MiguMusic-iOS/MGMobileMusic/Classes/Sevice/AudioPlayer/Player/MGAudioPlayer.m" timestamp="1521537349821">
         <mark key="'" line="170" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" timestamp="1522941610449">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="109" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="68" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/MGSingerHomeViewController/MGSingerHomeSongsController.m" timestamp="1491637949545">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="12" />
@@ -79,13 +86,6 @@
         <mark key="]" line="529" column="0" />
         <mark key="^" line="335" column="10" />
         <mark key="." line="529" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/Podfile" timestamp="1522919835137">
-        <mark key="'" line="12" column="1" />
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="23" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/MyFriends/MGMyFollowerFriendCell.m" timestamp="1491634051034">
         <mark key="[" line="29" column="39" />
@@ -284,6 +284,7 @@
         <mark key="." line="123" column="36" />
         <mark key="^" line="123" column="36" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9E145/4.1/armv7/iphoneos11.3/ObjectiveC/ObjectiveC.swift" timestamp="1522941519583" />
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/Network/MGNet/Content/MGContentIndexActivityNet.h" timestamp="1490864264043">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="15" column="0" />
@@ -367,6 +368,10 @@
         <mark key="]" line="75" column="102" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="76" column="68" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/AppCode2018.1/ModuleCache/9E145/4.1/armv7/iphoneos11.3/UIKit.UIControl/UIKit.UIControl.swift" timestamp="1522941483261">
+        <mark key="[" line="150" column="77" />
+        <mark key="]" line="150" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Live/MGLiveShowTicketController/Views/MGAvatarScrollViewAvatarCell.m" timestamp="1491632138515">
         <mark key="[" line="41" column="49" />
@@ -675,8 +680,10 @@
       <file name="$USER_HOME$/Desktop/Demo/Carthage/Checkouts/QuietModemKit/QuietModemKit/QMFrameTransmitter.m" timestamp="1504696326987">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522930757054">
-        <mark key="'" line="448" column="0" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" timestamp="1522940460050">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="174" column="5" />
         <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/MGAudioPlayer.m" timestamp="1490840774322">
@@ -937,13 +944,6 @@
         <mark key="." line="254" column="0" />
         <mark key="^" line="223" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/FollowDoctorController.swift" timestamp="1522899308797">
-        <mark key="'" line="50" column="85" />
-        <mark key="[" line="83" column="39" />
-        <mark key="]" line="84" column="30" />
-        <mark key="^" line="84" column="30" />
-        <mark key="." line="84" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Download/MGDownloadedTableViewCell.h" timestamp="1490791593812">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="51" />
@@ -961,20 +961,6 @@
         <mark key="]" line="120" column="6" />
         <mark key="." line="120" column="6" />
         <mark key="^" line="120" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" timestamp="1522571279289">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="68" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/View/ChoosePackageCell.swift" timestamp="1522508994398">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="67" column="38" />
-        <mark key="]" line="67" column="38" />
-        <mark key="^" line="67" column="38" />
-        <mark key="." line="67" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Core/AudioPlayer/LocalPlayer/MGLocalAudioPlayer.m" timestamp="1492002467073">
         <mark key="[" line="182" column="0" />
@@ -1033,12 +1019,12 @@
         <mark key="." line="235" column="10" />
         <mark key="^" line="235" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522939617616">
-        <mark key="'" line="118" column="8" />
-        <mark key="[" line="210" column="8" />
-        <mark key="]" line="210" column="10" />
-        <mark key="." line="210" column="10" />
-        <mark key="^" line="210" column="10" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522941735056">
+        <mark key="'" line="122" column="29" />
+        <mark key="[" line="120" column="13" />
+        <mark key="]" line="120" column="33" />
+        <mark key="." line="120" column="33" />
+        <mark key="^" line="120" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/Recommend/Views/newCells/MGRecommendSongListCell.m" timestamp="1491637359321">
         <mark key="[" line="193" column="5" />
@@ -1492,6 +1478,13 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="75" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" timestamp="1522941670558">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="59" column="111" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/MyMusic/Local/MGLocalMusicSearchViewController.m" timestamp="1491633924491">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="10" />
@@ -1596,25 +1589,11 @@
         <mark key="." line="266" column="0" />
         <mark key="^" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/NSObject+Dealloc.m" timestamp="1511856381490">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Search/Models/MGSearchAllResponseModel.m" timestamp="1491638873963">
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="15" />
         <mark key="." line="218" column="0" />
         <mark key="^" line="214" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Data/Mydata/Github/ZSkin/ZSkin/ZBinderManager.m" timestamp="1511856465508">
-        <mark key="'" line="111" column="57" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="191" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/PublicViewController/VideoPlayer/MGMVPlayerView/MGMVControlView.m" timestamp="1491833955659">
         <mark key="[" line="303" column="15" />
@@ -1687,32 +1666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="16" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="165" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="353" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="154" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="14" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="117" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="35" column="11" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/SimpleHomeController.swift" />
-      <jump line="84" column="11" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="88" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="129" column="23" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="47" column="40" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Model/LoginInfo.swift" />
-      <jump line="320" column="13" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
-      <jump line="208" column="36" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
-      <jump line="15" column="6" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
-      <jump line="370" column="12" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGCollectViewController.swift" />
-      <jump line="96" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="110" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="138" column="60" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="145" column="22" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="103" column="15" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
-      <jump line="123" column="19" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="273" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="285" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="804" column="11" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
@@ -1769,10 +1722,6 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
       <jump line="138" column="46" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
       <jump line="188" column="9" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
       <jump line="77" column="32" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
@@ -1787,6 +1736,36 @@
       <jump line="145" column="3" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
       <jump line="193" column="9" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
       <jump line="118" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="219" column="4" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="97" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="154" column="31" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="106" column="16" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="182" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="432" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" />
+      <jump line="10" column="6" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="114" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="57" column="26" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="66" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="17" column="6" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
+      <jump line="58" column="8" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
+      <jump line="101" column="9" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="13" column="18" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
+      <jump line="111" column="30" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
+      <jump line="93" column="18" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="32" column="23" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="69" column="7" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/PasswordLoginController.swift" />
+      <jump line="120" column="12" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
+      <jump line="122" column="29" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1799,7 +1778,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>passwordTextField</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1811,52 +1790,52 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>passwordTextField</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXh0RmllbGREaWRFbmRFZGl0aW5nXD4=</text>
+        <text encoding="base64">XDx0YXJnZXRVc2FnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrVmFsaWRhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhc3N3b3JkVGV4dEZpZWxkLmFkZFRhcmdldChzZWxmLCBhY3Rpb246I3NlbGVjdG9yKGNoZWNrVmFsaWRhdGlvbiksIGZvcjogVUlDb250cm9sRXZlbnRzLmVkaXRpbmdDaGFuZ2VkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRleHRGaWVsZERpZEVuZEVkaXRpbmcoc2VsZi5waG9uZU51bVRleHRGaWVsZCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrVmFsaWRhdGlvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRleHRGaWVsZERpZEVuZEVkaXRpbmcoc2VsZi5waG9uZU51bVRleHRGaWVsZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmFsaWRQYXNzd29yZCAgOiBCb29sID0gZmFsc2UKICAgICAgICB2YXIgdmFsaWRQaG9uZU51bWJlciA6IEJvb2wgPSBmYWxzZQogICAgICAgIHZhciB2YWxpZEF1dGhDb2RlIDogQm9vbCA9IGZhbHNlCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmMgdGV4dEZpZWxkKF8gdGV4dEZpZWxkOiBVSVRleHRGaWVsZCwgc2hvdWxkQ2hhbmdlQ2hhcmFjdGVyc0luIHJhbmdlOiBOU1JhbmdlLCByZXBsYWNlbWVudFN0cmluZyBzdHJpbmc6IFN0cmluZykgLT4gQm9vbCB7CiAgICAgICAgc2VsZi5jaGVja1ZhbGlkYXRpb24oKQogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBmYXRhbEVycm9yKCJ0ZXh0RmllbGQodGV4dEZpZWxkOnJhbmdlOnN0cmluZzopIGhhcyBub3QgYmVlbiBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgdGV4dEZpZWxkID09IHNlbGYucGhvbmVOdW1UZXh0RmllbGQgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ZXh0RmllbGQgPT0gc2VsZi5wYXNzd29yZFRleHRGaWVsZCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnZlcml5Q29kZS50ZXh0ID09ICIiIHx8IHNlbGYucGhvbmVOdW0udGV4dCA9PSAiInsKICAgICAgICAgICAgTUJQcm9ncmVzc0hVRC5zaG93RXJyb3IoIuivt+i+k+WFpeaJi+acuuWPt+aIlumqjOivgeeggSIpCiAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXh0RmllbGREaWRFbmRFZGl0aW5nXD4=</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRVc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXh0RmllbGREaWRFbmRFZGl0aW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRVc2FnZVw+</last-pattern>
       <last-replace>A</last-replace>
       <last-substitute encoding="base64">XDxjb21wbGV0aW9uXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -1864,7 +1843,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBVkF1ZGlvU2Vzc2lvblw+</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxjb21tb2RpdHlEZXRhaWxDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxleHBpcmVUaW1lXD4=</entry>
@@ -1884,6 +1862,7 @@
         <entry>switch</entry>
         <entry>delegate</entry>
         <entry encoding="base64">XDx0ZXh0RmllbGREaWRFbmRFZGl0aW5nXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRVc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
