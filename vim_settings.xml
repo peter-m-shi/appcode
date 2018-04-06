@@ -127,6 +127,12 @@
         <mark key="^" line="89" column="6" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/AccountPaidController.swift" timestamp="1522997646026">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="47" column="15" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/OnlineMusic/ColorRing/Feature/MGCRBTFeatureListViewController.m" timestamp="1491832717305">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -974,7 +980,7 @@
         <mark key="." line="120" column="6" />
         <mark key="^" line="120" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" timestamp="1522571279289">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Main/NetWorkTools/TransactionNetworkTool.swift" timestamp="1522997911850">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="0" />
@@ -1045,10 +1051,10 @@
         <mark key="." line="235" column="10" />
         <mark key="^" line="235" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522944803174">
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLogin/RegisterController.swift" timestamp="1522998663191">
         <mark key="'" line="101" column="3" />
-        <mark key="[" line="227" column="51" />
-        <mark key="]" line="227" column="52" />
+        <mark key="[" line="259" column="72" />
+        <mark key="]" line="259" column="77" />
         <mark key="^" line="232" column="53" />
         <mark key="." line="227" column="52" />
       </file>
@@ -1229,10 +1235,12 @@
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" timestamp="1522511062854">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" timestamp="1522999113347">
+        <mark key="'" line="54" column="16" />
+        <mark key="[" line="75" column="63" />
+        <mark key="]" line="75" column="63" />
+        <mark key="." line="75" column="63" />
+        <mark key="^" line="81" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/SongAction/MGPlayerSongActionView.h" timestamp="1490791150942">
         <mark key="[" line="17" column="0" />
@@ -1705,14 +1713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="7" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/NewLoginController.swift" />
-      <jump line="238" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/ECGHomeController.swift" />
-      <jump line="12" column="1" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/Podfile" />
-      <jump line="405" column="27" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
-      <jump line="470" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
-      <jump line="484" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
-      <jump line="487" column="17" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
-      <jump line="495" column="38" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
       <jump line="162" column="57" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
@@ -1805,6 +1805,14 @@
       <jump line="59" column="24" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
       <jump line="86" column="35" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
       <jump line="13" column="15" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/LoginAndRegist/Controller/IdentifierCodeLoginController.swift" />
+      <jump line="42" column="4" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="70" column="3" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="182" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="53" column="16" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1816,8 +1824,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW1hZ2VWaWV3Py5pc0hpZGRlbiA9IGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1829,43 +1837,43 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>150</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Down</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudmlldz8uZnJhbWUgPSBDR1JlY3QoeDogMCwgeTogLTgwLCB3aWR0aDogKHNlbGYudmlldz8uZnJhbWUuc2l6ZS53aWR0aCkhLCBoZWlnaHQ6IChzZWxmLnZpZXc/LmZyYW1lLnNpemUuaGVpZ2h0KSEpCg==</text>
+      <register name="0" type="4">
+        <text>String(format: &quot;您已获取%@套餐&quot;, arguments: (self.latestOrder.commodityName)!)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW1hZ2VWaWV3Py5pc0hpZGRlbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9jb21tb2RpdHlOYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW1hZ2VWaWV3Py5pc0hpZGRlbiA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXRlc3RPcmRlcgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmMgdGV4dEZpZWxkRGlkRW5kRWRpdGluZyhfIHRleHRGaWVsZDogVUlUZXh0RmllbGQpIHsKICAgICAgICBzZWxmLnNjcm9sbERvd24oKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbFRoZVBhZ2VydmlldygpCiAgICB9CgogICAgZnVuYyB0ZXh0RmllbGREaWRFbmRFZGl0aW5nKF8gdGV4dEZpZWxkOiBVSVRleHRGaWVsZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vMSDlvoXmlK/ku5gqIDIg5bey5Y+W5raIKiAzIOW3suaUr+S7mCAqIDUg6YCA6LSn57uT5p2fIDQgKiDpgIDotKfkuK0gKiA2IOiuouWNleWFswogICAgICAgICAgICAgICAgc3dpdGNoIChsYXRlc3RPcmRlci5vcmRlclN0YXR1cykhIHsKICAgICAgICAgICAgICAgIGNhc2UgMCAsIDEgLCA1OgogICAgICAgICAgICAgICAgICAgIHNlbGYuYm90dG9tQnRuLmlzSGlkZGVuID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICBzZWxmLmJvdHRvbUJ0bi5zZXRUaXRsZSgi6I635Y+W5aWX6aSQIiwgZm9yOiAubm9ybWFsKQogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAzLCA0OgogICAgICAgICAgICAgICAgICAgIHNlbGYuYm90dG9tQnRuLmlzSGlkZGVuID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICBzZWxmLmJvdHRvbUJ0bi5zZXRUaXRsZSgi5oKo5bey6I635Y+WeHjlpZfppJAiLCBmb3I6IC5ub3JtYWwpCiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5ib3R0b21CdG4uaXNIaWRkZW4gPSBmYWxzZQogICAgICAgICAgICAgICAgICAgIHNlbGYuYm90dG9tQnRuLnNldFRpdGxlKCJ4eOWll+mkkOi/mOacquaUr+S7mOWujOaIkCIsIGZvcjogLm5vcm1hbCkKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgNjoKICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmMgdGV4dEZpZWxkRGlkRW5kRWRpdGluZyhfIHRleHRGaWVsZDogVUlUZXh0RmllbGQpIHsKICAgICAgICBkZWxlZ2F0ZT8uc2Nyb2xsRG93bigpCiAgICAgICAgc2VsZi5jaGVja1ZhbGlkYXRpb24oKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgNToKICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmMga2V5Qm9hcmRXaWxsU2hvdyhfIG5vdGk6IE5vdGlmaWNhdGlvbikgewogICAgICAgIGRlbGVnYXRlPy5zY3JvbGxUaGVQYWdlcnZpZXcoKQogICAgfQoKICAgIGZ1bmMga2V5Qm9hcmRXaWxsSGlkZShfIG5vdGk6IE5vdGlmaWNhdGlvbikgewogICAgICAgIGRlbGVnYXRlPy5zY3JvbGxUaGVQYWdlcnZpZXcoKQogICAgfQogICAgZnVuYyB0ZXh0RmllbGREaWRFbmRFZGl0aW5nKF8gdGV4dEZpZWxkOiBVSVRleHRGaWVsZCkgewogICAgICAgIGRlbGVnYXRlPy5zY3JvbGxEb3duKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYm90dG9tQnRuLmlzSGlkZGVuID0gZmFsc2UKICAgICAgICAgICAgICAgIHNlbGYuYm90dG9tQnRuLnNldFRpdGxlKCLojrflj5blpZfppJAiLCBmb3I6IC5ub3JtYWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
