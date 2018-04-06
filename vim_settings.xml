@@ -889,6 +889,12 @@
         <mark key="." line="626" column="22" />
         <mark key="^" line="626" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/ECG/Controller/HistoryDetailVC.swift" timestamp="1523002119738">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/LeftDrawer/Util/MGRequestManager+Common.m" timestamp="1491640910523">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="52" column="6" />
@@ -1234,13 +1240,6 @@
         <mark key="]" line="55" column="32" />
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" timestamp="1522999113347">
-        <mark key="'" line="54" column="16" />
-        <mark key="[" line="75" column="63" />
-        <mark key="]" line="75" column="63" />
-        <mark key="." line="75" column="63" />
-        <mark key="^" line="81" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/SongAction/MGPlayerSongActionView.h" timestamp="1490791150942">
         <mark key="[" line="17" column="0" />
@@ -1825,7 +1824,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>self.detailInfo.measureId</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1837,13 +1836,13 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>self.detailInfo.measureId</text>
       </register>
       <register name="/" type="4">
         <text>Down</text>
       </register>
-      <register name="0" type="4">
-        <text>String(format: &quot;您已获取%@套餐&quot;, arguments: (self.latestOrder.commodityName)!)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbS5pZCA9IHNlbGYuZGV0YWlsSW5mby5tZWFzdXJlSWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9jb21tb2RpdHlOYW1lCg==</text>
