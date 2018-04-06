@@ -1241,6 +1241,11 @@
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" timestamp="1523018225116">
+        <mark key="[" line="78" column="56" />
+        <mark key="]" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Data/Project/MGMobileMusic/MGMobileMusic/Controllers/Player/SongAction/MGPlayerSongActionView.h" timestamp="1490791150942">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1311,8 +1316,8 @@
         <mark key="." line="160" column="6" />
         <mark key="^" line="160" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" timestamp="1522935948747">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" timestamp="1523018134750">
+        <mark key="'" line="993" column="20" />
         <mark key="[" line="103" column="38" />
         <mark key="]" line="103" column="38" />
         <mark key="^" line="115" column="34" />
@@ -1712,8 +1717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJECGViewController.swift" />
-      <jump line="162" column="57" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/XJECG/XJ_ConnectDeviceViewController.m" />
@@ -1812,6 +1815,8 @@
       <jump line="55" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
       <jump line="182" column="0" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
       <jump line="53" column="16" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Shopping/Controller/PlansIntroduceController.swift" />
+      <jump line="185" column="45" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
+      <jump line="993" column="20" filename="$USER_HOME$/Documents/Data/Project/iOS_jkxl_pat/iOS_jkxl_pat/Classes/Home/Controller/HomeController.swift" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1824,7 +1829,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self.detailInfo.measureId</text>
+        <text>”</text>
       </register>
       <register name="b" type="4">
         <text>^eebveyj$bvepj</text>
@@ -1836,10 +1841,10 @@
         <text>^ee dejj</text>
       </register>
       <register name="-" type="4">
-        <text>self.detailInfo.measureId</text>
+        <text>”</text>
       </register>
       <register name="/" type="4">
-        <text>Down</text>
+        <text>DEBUG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbS5pZCA9IHNlbGYuZGV0YWlsSW5mby5tZWFzdXJlSWQK</text>
@@ -1879,9 +1884,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Down</last-search>
+      <last-search>DEBUG</last-search>
       <last-offset />
-      <last-pattern>Down</last-pattern>
+      <last-pattern>DEBUG</last-pattern>
       <last-replace>A</last-replace>
       <last-substitute encoding="base64">XDxjb21wbGV0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1889,7 +1894,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbkluZm9cPg==</entry>
         <entry>info</entry>
         <entry>message</entry>
         <entry>show</entry>
@@ -1901,7 +1905,6 @@
         <entry>present</entry>
         <entry>customPresentViewController</entry>
         <entry>Pre</entry>
-        <entry>DEBUG</entry>
         <entry>switch</entry>
         <entry>delegate</entry>
         <entry encoding="base64">XDx0ZXh0RmllbGREaWRFbmRFZGl0aW5nXD4=</entry>
@@ -1909,6 +1912,8 @@
         <entry>Donw</entry>
         <entry>disp</entry>
         <entry>Down</entry>
+        <entry>Debug</entry>
+        <entry>DEBUG</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
